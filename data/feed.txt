@@ -1,0 +1,1 @@
+http://31.43.191.125:8080/get.php?username=vip6001770656088&password=c394e34a0504&type=m3u_plus&output=ts
