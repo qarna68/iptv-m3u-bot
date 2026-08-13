@@ -1,1 +1,1 @@
-http://31.43.191.125:8080/get.php?username=vip6001770656088&password=c394e34a0504&type=m3u_plus&output=ts
+http://daddyserver.com:8080/get.php?username=Dedicadonet&password=mBG5Z0Ld9bvAADw2JvCzhaDaogziWN&type=m3u
