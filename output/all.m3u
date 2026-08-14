@@ -4720,9 +4720,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6572
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦ISLAMIC✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦ISLAMIC✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6882
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6553
-#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6554
+#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6553
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KIDS✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦KIDS✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6886
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KUWAIT✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦KUWAIT✦●✦
@@ -5694,9 +5694,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130994
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: Kids" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_Kids.jpg" group-title="ARAB VIP NEW",AR|SHAHID: Kids
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130995
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: KIDS 1" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_KIDS_1.jpg" group-title="ARAB VIP NEW",AR|SHAHID: KIDS 1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130996
-#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: KIDS 1" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_KIDS_1.jpg" group-title="ARAB VIP NEW",AR|SHAHID: KIDS 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130997
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: KIDS 1" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_KIDS_1.jpg" group-title="ARAB VIP NEW",AR|SHAHID: KIDS 1
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130996
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: KIDS 2" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_KIDS_2.jpg" group-title="ARAB VIP NEW",AR|SHAHID: KIDS 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130998
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: KIDS 3" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_KIDS_3.jpg" group-title="ARAB VIP NEW",AR|SHAHID: KIDS 3
@@ -6046,9 +6046,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4021
 #EXTINF:-1 tvg-id="" tvg-name="AT: SRF 1" tvg-logo="https://docdog.top/logo/countries/austria/srf1.png" group-title="EU | AUSTRIA VIP",AT: SRF 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4022
 #EXTINF:-1 tvg-id="" tvg-name="AT: SRF ZWEI" tvg-logo="https://docdog.top/logo/countries/austria/srf2.png" group-title="EU | AUSTRIA VIP",AT: SRF ZWEI
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4023
-#EXTINF:-1 tvg-id="" tvg-name="AT: SRF ZWEI" tvg-logo="https://docdog.top/logo/countries/austria/srf2.png" group-title="EU | AUSTRIA VIP",AT: SRF ZWEI
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4024
+#EXTINF:-1 tvg-id="" tvg-name="AT: SRF ZWEI" tvg-logo="https://docdog.top/logo/countries/austria/srf2.png" group-title="EU | AUSTRIA VIP",AT: SRF ZWEI
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4023
 #EXTINF:-1 tvg-id="" tvg-name="AT: SUPER RTL" tvg-logo="https://docdog.top/logo/countries/austria/superrtl.png" group-title="EU | AUSTRIA VIP",AT: SUPER RTL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4025
 #EXTINF:-1 tvg-id="" tvg-name="AT: VOX" tvg-logo="https://docdog.top/logo/countries/austria/vox.png" group-title="EU | AUSTRIA VIP",AT: VOX
@@ -6190,9 +6190,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Action/Adventure",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137062.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137661.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137661.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137678.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avengement (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXPxSAYf3FdQktnOtQnvhUPMhFp.jpg" group-title="AMAZON | TOP",Avengement (2019)
@@ -8299,8 +8299,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5415
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5416
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC NEWS" tvg-logo="https://docdog.top/logo/countries/canada/cbcnews.png" group-title="CANADA VIP",CA: CBC NEWS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5417
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="CANADA VIP",CA: CBC TORONTO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5418
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC WINDSOR" tvg-logo="https://docdog.top/logo/countries/canada/cbcwindsor.png" group-title="CANADA VIP",CA: CBC WINDSOR
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5419
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC WINNIPEG" tvg-logo="https://docdog.top/logo/countries/canada/cbcwinnipeg.png" group-title="CANADA VIP",CA: CBC WINNIPEG
@@ -8613,10 +8611,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5398
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5331
 #EXTINF:-1 tvg-id="" tvg-name="CAR: CARIBVISION" tvg-logo="https://docdog.top/logo/countries/caribbean/caribvision.png" group-title="LAME | CARIBBEAN VIP",CAR: CARIBVISION
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5391
-#EXTINF:-1 tvg-id="" tvg-name="CAR: CARS TV" tvg-logo="https://docdog.top/logo/countries/caribbean/carstv.png" group-title="LAME | CARIBBEAN VIP",CAR: CARS TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5332
-#EXTINF:-1 tvg-id="" tvg-name="CAR: CBC TV 8" tvg-logo="https://docdog.top/logo/countries/caribbean/cbctv8.png" group-title="LAME | CARIBBEAN VIP",CAR: CBC TV 8
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5333
 #EXTINF:-1 tvg-id="" tvg-name="CAR: CBN TV BVI" tvg-logo="https://docdog.top/logo/countries/caribbean/cbntvbvi.png" group-title="LAME | CARIBBEAN VIP",CAR: CBN TV BVI
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5334
 #EXTINF:-1 tvg-id="" tvg-name="CAR: CDM INTERNATIONAL" tvg-logo="https://docdog.top/logo/countries/caribbean/CDMINTERNATIONAL.png" group-title="LAME | CARIBBEAN VIP",CAR: CDM INTERNATIONAL
@@ -8894,9 +8888,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136598.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlie and the Chocolate Factory (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg" group-title="AMAZON | Movies In English",Charlie and the Chocolate Factory (2005)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlie's Angels (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="AMAZON | TOP",Charlie's Angels (2019)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142418.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Charlie's Angels (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="AMAZON | TOP",Charlie's Angels (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Charlie's Angels (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="AMAZON | TOP",Charlie's Angels (2019)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142418.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlotte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goUoo1DiQen9TT6sBT6o4LW5cQs.jpg" group-title="AMAZON | Recently Added",Charlotte (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143605.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charming (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zul7SrFKT0NLpDZByVeVh6wVZ5p.jpg" group-title="AMAZON | Kids And Family",Charming (2021)
@@ -23420,9 +23414,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134336.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mother of the Bride (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdTvwykMWvVgdaViBVRh8IFTku5.jpg" group-title="NETFLIX | Romance",Mother of the Bride (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133760.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mother Teresa: No Greater Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxK6C9fp8Cj24UCX3Q3MFzrtpap.jpg" group-title="AMAZON | Documentaries",Mother Teresa: No Greater Love (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mother Teresa: No Greater Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxK6C9fp8Cj24UCX3Q3MFzrtpap.jpg" group-title="AMAZON | Documentaries",Mother Teresa: No Greater Love (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mother Teresa: No Greater Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxK6C9fp8Cj24UCX3Q3MFzrtpap.jpg" group-title="AMAZON | Documentaries",Mother Teresa: No Greater Love (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138304.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mothering Sunday (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3WGSUZNUKEPkLlb3foHbn8rwiK.jpg" group-title="DISNEY | Drama",Mothering Sunday (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137117.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mothers & Stepsons 8 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2puRdDNy9fRQMlqnzXrMg1NHY6.jpg" group-title="XXX 18+",Mothers & Stepsons 8 (2023)
@@ -25104,9 +25098,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133101.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Opus (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg" group-title="AMAZON | Documentaries",Opus (2025)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138262.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extra Episode, or Not: Behind the Scenes of All the Same (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTDcLs6OTRGFxuQ8OSEwPyke74e.jpg" group-title="DISNEY | Documentary",Extra Episode, or Not: Behind the Scenes of All the Same (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137665.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Extra Episode, or Not: Behind the Scenes of All the Same (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTDcLs6OTRGFxuQ8OSEwPyke74e.jpg" group-title="DISNEY | Documentary",Extra Episode, or Not: Behind the Scenes of All the Same (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extra Episode, or Not: Behind the Scenes of All the Same (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTDcLs6OTRGFxuQ8OSEwPyke74e.jpg" group-title="DISNEY | Documentary",Extra Episode, or Not: Behind the Scenes of All the Same (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137665.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Twelfth Night, or What You Will (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otqH8vCWVKEI8PAr7SeGxiRa3OC.jpg" group-title="AMAZON | Romantic Comedies",Twelfth Night, or What You Will (2003)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139867.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Orbital Era" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSbh4lDeJFEZJexVU2ORnuJDgC6.jpg" group-title="AMAZON | Science Fiction",Orbital Era
@@ -29624,9 +29618,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154468
 #EXTINF:-1 tvg-id="" tvg-name="Speed Is Expensive: The Philip Vincent Story (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caj6PuX0W6ns2CglhqpA7dv7pS5.jpg" group-title="AMAZON | 2025",Speed Is Expensive: The Philip Vincent Story (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134552.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spellbound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg" group-title="NETFLIX | Kids",Spellbound (2024)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133672.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spellbound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg" group-title="NETFLIX | Kids",Spellbound (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spellbound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg" group-title="NETFLIX | Kids",Spellbound (2024)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133672.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spelling the Dream (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piAOvsXc1gg7HrS0FYjPik7dVkl.jpg" group-title="NETFLIX | Documentary",Spelling the Dream (2020)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133159.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg" group-title="NETFLIX | Thriller",Spenser Confidential (2020)
@@ -37742,29 +37736,23 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137337.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Us and Them (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awAgLglirZsEqLff79Z8HaMrTXn.jpg" group-title="NETFLIX | Drama",Us and Them (2018)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134385.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Riotsville, USA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iksb0f8B0hlpqYWRSqBXK4pyZrv.jpg" group-title="DISNEY | Documentary",Riotsville, USA (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Riotsville, USA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iksb0f8B0hlpqYWRSqBXK4pyZrv.jpg" group-title="DISNEY | Documentary",Riotsville, USA (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Riotsville, USA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iksb0f8B0hlpqYWRSqBXK4pyZrv.jpg" group-title="DISNEY | Documentary",Riotsville, USA (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137675.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extraction, USA (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcfz62gXVBmuQyt2dnxh1HXSJ9z.jpg" group-title="AMAZON | Romance",Extraction, USA (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="USA : NHL MONTREAL CANADIENS" tvg-logo="" group-title="USA VIP",USA : NHL MONTREAL CANADIENS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154469
 #EXTINF:-1 tvg-id="" tvg-name="USA: 21 JUMP STREET HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: 21 JUMP STREET HD [Sᴛᴠ+]
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154470
-#EXTINF:-1 tvg-id="" tvg-name="USA: 4UV" tvg-logo="" group-title="USA VIP",USA: 4UV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154471
 #EXTINF:-1 tvg-id="" tvg-name="USA: 60 DAYS IN BY A&E HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: 60 DAYS IN BY A&E HD [Sᴛᴠ+]
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154472
 #EXTINF:-1 tvg-id="" tvg-name="USA: A&E (WEST)" tvg-logo="" group-title="USA VIP",USA: A&E (WEST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154473
 #EXTINF:-1 tvg-id="" tvg-name="USA: A&E COLD CASE FILES" tvg-logo="" group-title="USA VIP",USA: A&E COLD CASE FILES
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154474
-#EXTINF:-1 tvg-id="" tvg-name="USA: A&E CRIME360" tvg-logo="" group-title="USA VIP",USA: A&E CRIME360
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154475
 #EXTINF:-1 tvg-id="" tvg-name="USA: A&E CRIMES CULTS KILLERS" tvg-logo="" group-title="USA VIP",USA: A&E CRIMES CULTS KILLERS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154476
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 10 (WPLG) MIAMI" tvg-logo="" group-title="USA VIP",USA: ABC 10 (WPLG) MIAMI
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154477
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC 13 (KTRK) HOUSTON" tvg-logo="" group-title="USA VIP",USA: ABC 13 (KTRK) HOUSTON
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154478
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC 30 (KFSN) FRESNO" tvg-logo="" group-title="USA VIP",USA: ABC 30 (KFSN) FRESNO
@@ -37821,8 +37809,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154503
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154504
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC CENTRAL CATCHUP" tvg-logo="" group-title="USA VIP",USA: ABC CENTRAL CATCHUP
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154505
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC CHARLESTON WCHS" tvg-logo="" group-title="USA VIP",USA: ABC CHARLESTON WCHS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154506
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC CHARLOTTE WSOC" tvg-logo="" group-title="USA VIP",USA: ABC CHARLOTTE WSOC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154507
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC CHATTANOOGA WTVC" tvg-logo="" group-title="USA VIP",USA: ABC CHATTANOOGA WTVC
@@ -37875,8 +37861,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154530
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154531
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC HAMPTON ROADS WVEC" tvg-logo="" group-title="USA VIP",USA: ABC HAMPTON ROADS WVEC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154532
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HARRISBURG WHTM" tvg-logo="" group-title="USA VIP",USA: ABC HARRISBURG WHTM
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154533
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC HARRISBURG WSIL" tvg-logo="" group-title="USA VIP",USA: ABC HARRISBURG WSIL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154534
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC HARTFORD WTNH" tvg-logo="" group-title="USA VIP",USA: ABC HARTFORD WTNH
@@ -37907,8 +37891,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154546
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154547
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC LAS VEGAS KTNV" tvg-logo="" group-title="USA VIP",USA: ABC LAS VEGAS KTNV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154548
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC LITTLE ROCK KATV" tvg-logo="" group-title="USA VIP",USA: ABC LITTLE ROCK KATV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154549
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC LOCALISH HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: ABC LOCALISH HD [Sᴛᴠ+]
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154550
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC LONG ISLAND WABC" tvg-logo="" group-title="USA VIP",USA: ABC LONG ISLAND WABC
@@ -37939,8 +37921,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154562
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154563
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC MOUNTAIN CATCHUP" tvg-logo="" group-title="USA VIP",USA: ABC MOUNTAIN CATCHUP
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154564
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC MT MISSOULA KTMF" tvg-logo="" group-title="USA VIP",USA: ABC MT MISSOULA KTMF
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154565
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC NASHVILLE WKRN" tvg-logo="" group-title="USA VIP",USA: ABC NASHVILLE WKRN
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154566
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC NEW BERN WCTI" tvg-logo="" group-title="USA VIP",USA: ABC NEW BERN WCTI
@@ -37983,14 +37963,8 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154584
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154585
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC SAINT PAUL KSTP" tvg-logo="" group-title="USA VIP",USA: ABC SAINT PAUL KSTP
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154586
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC SALT LAKE CITY KTVX" tvg-logo="" group-title="USA VIP",USA: ABC SALT LAKE CITY KTVX
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154587
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC SAN ANTONIO KSAT" tvg-logo="" group-title="USA VIP",USA: ABC SAN ANTONIO KSAT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154588
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC SAN DIEGO KGTV" tvg-logo="" group-title="USA VIP",USA: ABC SAN DIEGO KGTV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154589
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC SAN FRANCISCO KGO" tvg-logo="" group-title="USA VIP",USA: ABC SAN FRANCISCO KGO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154590
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC SARASOTA WWSB" tvg-logo="" group-title="USA VIP",USA: ABC SARASOTA WWSB
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154591
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC SAVANNAH WJCL" tvg-logo="" group-title="USA VIP",USA: ABC SAVANNAH WJCL
@@ -38007,8 +37981,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154596
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154597
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC ST.LOUIS KDNL" tvg-logo="" group-title="USA VIP",USA: ABC ST.LOUIS KDNL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154598
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC SYRACUSE WSYR" tvg-logo="" group-title="USA VIP",USA: ABC SYRACUSE WSYR
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154599
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC TALLAHASSEE WTXL" tvg-logo="" group-title="USA VIP",USA: ABC TALLAHASSEE WTXL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154600
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC TAMPA BAY WFTS" tvg-logo="" group-title="USA VIP",USA: ABC TAMPA BAY WFTS
@@ -38021,16 +37993,8 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154603
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154604
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC TULSA KTUL" tvg-logo="" group-title="USA VIP",USA: ABC TULSA KTUL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154605
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC TYLER-LONGVIEW KLTV" tvg-logo="" group-title="USA VIP",USA: ABC TYLER-LONGVIEW KLTV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154606
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC WASHINGTON DC WJLA" tvg-logo="" group-title="USA VIP",USA: ABC WASHINGTON DC WJLA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154607
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC WESLACO KRGV" tvg-logo="" group-title="USA VIP",USA: ABC WESLACO KRGV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154608
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC WEST PALM BEACH WPBF" tvg-logo="" group-title="USA VIP",USA: ABC WEST PALM BEACH WPBF
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154609
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC WICHITA KAKE" tvg-logo="" group-title="USA VIP",USA: ABC WICHITA KAKE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154610
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC WITCHITA FALLS KSWO" tvg-logo="" group-title="USA VIP",USA: ABC WITCHITA FALLS KSWO
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154611
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC YOUNGSTOWN WYTV" tvg-logo="" group-title="USA VIP",USA: ABC YOUNGSTOWN WYTV
@@ -38045,8 +38009,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154615
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154616
 #EXTINF:-1 tvg-id="" tvg-name="USA: AFN SPORT" tvg-logo="" group-title="USA VIP",USA: AFN SPORT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154617
-#EXTINF:-1 tvg-id="" tvg-name="USA: AFRO" tvg-logo="" group-title="USA VIP",USA: AFRO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154618
 #EXTINF:-1 tvg-id="" tvg-name="USA: AHL 11" tvg-logo="" group-title="USA VIP",USA: AHL 11
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154619
 #EXTINF:-1 tvg-id="" tvg-name="USA: AHL 12" tvg-logo="" group-title="USA VIP",USA: AHL 12
@@ -38073,8 +38035,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154629
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154630
 #EXTINF:-1 tvg-id="" tvg-name="USA: ALONE BY HISTORY" tvg-logo="" group-title="USA VIP",USA: ALONE BY HISTORY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154631
-#EXTINF:-1 tvg-id="" tvg-name="USA: ALTITUDE SPORTS" tvg-logo="" group-title="USA VIP",USA: ALTITUDE SPORTS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154632
 #EXTINF:-1 tvg-id="" tvg-name="USA: ALWAYS FUNNY" tvg-logo="" group-title="USA VIP",USA: ALWAYS FUNNY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154633
 #EXTINF:-1 tvg-id="" tvg-name="USA: ALWAYS FUNNY VIDEOS HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: ALWAYS FUNNY VIDEOS HD [Sᴛᴠ+]
@@ -38085,8 +38045,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154635
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154636
 #EXTINF:-1 tvg-id="" tvg-name="USA: AMC NETWORK" tvg-logo="" group-title="USA VIP",USA: AMC NETWORK
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154637
-#EXTINF:-1 tvg-id="" tvg-name="USA: AMC NETWORK (WEST)" tvg-logo="" group-title="USA VIP",USA: AMC NETWORK (WEST)
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154638
 #EXTINF:-1 tvg-id="" tvg-name="USA: AMC PRESENTS" tvg-logo="" group-title="USA VIP",USA: AMC PRESENTS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154639
 #EXTINF:-1 tvg-id="" tvg-name="USA: AMC STORIES" tvg-logo="" group-title="USA VIP",USA: AMC STORIES
@@ -38145,18 +38103,12 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154665
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154666
 #EXTINF:-1 tvg-id="" tvg-name="USA: APPLE TV+ SERIES INFO" tvg-logo="" group-title="USA VIP",USA: APPLE TV+ SERIES INFO
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154667
-#EXTINF:-1 tvg-id="" tvg-name="USA: AQUÍ Y AHORA" tvg-logo="" group-title="USA VIP",USA: AQUÍ Y AHORA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154668
 #EXTINF:-1 tvg-id="" tvg-name="USA: ASPIRE" tvg-logo="" group-title="USA VIP",USA: ASPIRE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154669
 #EXTINF:-1 tvg-id="" tvg-name="USA: AT HOME WITH FAMILY HANDYMAN HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: AT HOME WITH FAMILY HANDYMAN HD [Sᴛᴠ+]
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154670
 #EXTINF:-1 tvg-id="" tvg-name="USA: AT&T SPORTSNET" tvg-logo="" group-title="USA VIP",USA: AT&T SPORTSNET
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154671
-#EXTINF:-1 tvg-id="" tvg-name="USA: AT&T SPORTSNET PITTSBURGH" tvg-logo="" group-title="USA VIP",USA: AT&T SPORTSNET PITTSBURGH
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154672
-#EXTINF:-1 tvg-id="" tvg-name="USA: AT&T SPORTSNET SOUTHWEST" tvg-logo="" group-title="USA VIP",USA: AT&T SPORTSNET SOUTHWEST
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154673
 #EXTINF:-1 tvg-id="" tvg-name="USA: ATLANTA CHANNEL" tvg-logo="" group-title="USA VIP",USA: ATLANTA CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154674
 #EXTINF:-1 tvg-id="" tvg-name="USA: ATMOS (EVENTS ONLY)" tvg-logo="" group-title="USA VIP",USA: ATMOS (EVENTS ONLY)
@@ -38196,9 +38148,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154691
 #EXTINF:-1 tvg-id="" tvg-name="USA: BAYWATCH HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: BAYWATCH HD [Sᴛᴠ+]
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154692
 #EXTINF:-1 tvg-id="" tvg-name="USA: BBC AMERICA" tvg-logo="" group-title="USA VIP",USA: BBC AMERICA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154693
-#EXTINF:-1 tvg-id="" tvg-name="USA: BBC AMERICA" tvg-logo="" group-title="USA VIP",USA: BBC AMERICA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154694
+#EXTINF:-1 tvg-id="" tvg-name="USA: BBC AMERICA" tvg-logo="" group-title="USA VIP",USA: BBC AMERICA
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154693
 #EXTINF:-1 tvg-id="" tvg-name="USA: BBC EARTH" tvg-logo="" group-title="USA VIP",USA: BBC EARTH
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154695
 #EXTINF:-1 tvg-id="" tvg-name="USA: BBC FOOD HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: BBC FOOD HD [Sᴛᴠ+]
@@ -38322,9 +38274,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154970
 #EXTINF:-1 tvg-id="" tvg-name="USA: C-SPAN 2" tvg-logo="" group-title="USA VIP",USA: C-SPAN 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154971
 #EXTINF:-1 tvg-id="" tvg-name="USA: C-SPAN 3" tvg-logo="" group-title="USA VIP",USA: C-SPAN 3
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154972
-#EXTINF:-1 tvg-id="" tvg-name="USA: C-SPAN 3" tvg-logo="" group-title="USA VIP",USA: C-SPAN 3
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154973
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-SPAN 3" tvg-logo="" group-title="USA VIP",USA: C-SPAN 3
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154972
 #EXTINF:-1 tvg-id="" tvg-name="USA: CA NBA TV" tvg-logo="" group-title="USA VIP",USA: CA NBA TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154754
 #EXTINF:-1 tvg-id="" tvg-name="USA: CAILLOU" tvg-logo="" group-title="USA VIP",USA: CAILLOU
@@ -38694,9 +38646,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154936
 #EXTINF:-1 tvg-id="" tvg-name="USA: CLEO TV" tvg-logo="" group-title="USA VIP",USA: CLEO TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154937
 #EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="USA VIP",USA: CMT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154938
-#EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="USA VIP",USA: CMT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154939
+#EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="USA VIP",USA: CMT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154938
 #EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="USA VIP",USA: CMT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154940
 #EXTINF:-1 tvg-id="" tvg-name="USA: CMT (EAST)" tvg-logo="" group-title="USA VIP",USA: CMT (EAST)
@@ -42226,9 +42178,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156706
 #EXTINF:-1 tvg-id="" tvg-name="USA: TOTALLY TURTLES" tvg-logo="" group-title="USA VIP",USA: TOTALLY TURTLES
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156707
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156708
-#EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156709
+#EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156708
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156710
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL (EAST)" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL (EAST)
@@ -42872,9 +42824,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139131.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Werewolf (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egSBfZCPeZvaSx4IKXKRqhH8DIg.jpg" group-title="AMAZON | Mystery And Thriller",Werewolf (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143321.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Werewolf by Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg" group-title="DISNEY | Marvel",Werewolf by Night (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136821.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Werewolf by Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg" group-title="DISNEY | Marvel",Werewolf by Night (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Werewolf by Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg" group-title="DISNEY | Marvel",Werewolf by Night (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136821.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Werewolf Castle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjMjnbS3pEdlGU1I2ahb3kXCGRt.jpg" group-title="AMAZON | Horror",Werewolf Castle (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139132.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Werewolf Woman (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvOpwD1repotP22ZWsyJo1Bz3pJ.jpg" group-title="AMAZON | Horror",Werewolf Woman (1976)
