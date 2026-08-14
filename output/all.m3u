@@ -2116,9 +2116,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142319.mkv
 #EXTINF:-1 tvg-id="" tvg-name="An Unforgettable Year – Spring (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRXkAcGcFIVNpsVe7cdr5YfBPmG.jpg" group-title="AMAZON | TOP",An Unforgettable Year – Spring (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142318.mkv
 #EXTINF:-1 tvg-id="" tvg-name="An Unforgettable Year – Spring (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRXkAcGcFIVNpsVe7cdr5YfBPmG.jpg" group-title="AMAZON | Young Adult",An Unforgettable Year – Spring (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/144032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="An Unforgettable Year – Spring (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRXkAcGcFIVNpsVe7cdr5YfBPmG.jpg" group-title="AMAZON | Young Adult",An Unforgettable Year – Spring (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/144031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="An Unforgettable Year – Spring (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRXkAcGcFIVNpsVe7cdr5YfBPmG.jpg" group-title="AMAZON | Young Adult",An Unforgettable Year – Spring (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/144032.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Anal Casting (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elESsGkGv6bxeFxrngmaCSD1qwy.jpg" group-title="XXX 18+",Anal Casting (2018)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140081.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Anal experience (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8duU85lprTFrafD3tD3RF4ZIpxI.jpg" group-title="XXX 18+",Anal experience (2020)
@@ -5307,8 +5307,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130800
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130801
 #EXTINF:-1 tvg-id="" tvg-name="AR|MBC: MBC IRAQ SD" tvg-logo="https://docdog.top/logo/countries/ar/MBC_IRAQ_SD.png" group-title="ARAB VIP NEW",AR|MBC: MBC IRAQ SD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130802
-#EXTINF:-1 tvg-id="" tvg-name="AR|MBC: MBC MASR" tvg-logo="https://docdog.top/logo/countries/ar/MBC_MASR.png" group-title="ARAB VIP NEW",AR|MBC: MBC MASR
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130803
 #EXTINF:-1 tvg-id="" tvg-name="AR|MBC: MBC MASR 2 HD" tvg-logo="https://docdog.top/logo/countries/ar/MBC_MASR_2_HD.png" group-title="ARAB VIP NEW",AR|MBC: MBC MASR 2 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130804
 #EXTINF:-1 tvg-id="" tvg-name="AR|MBC: MBC MASR 2 SD" tvg-logo="https://docdog.top/logo/countries/ar/MBC_MASR_2_SD.png" group-title="ARAB VIP NEW",AR|MBC: MBC MASR 2 SD
@@ -5351,8 +5349,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130822
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130823
 #EXTINF:-1 tvg-id="" tvg-name="AR|MYCIMA: The Movies" tvg-logo="https://docdog.top/logo/countries/ar/MYCIMA_The_Movies.png" group-title="ARAB VIP NEW",AR|MYCIMA: The Movies
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130824
-#EXTINF:-1 tvg-id="" tvg-name="AR|MYCIMA: The Movies 2" tvg-logo="https://docdog.top/logo/countries/ar/MYCIMA_The_Movies_2.png" group-title="ARAB VIP NEW",AR|MYCIMA: The Movies 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130825
 #EXTINF:-1 tvg-id="" tvg-name="AR|MYCIMA: Thriller Movies" tvg-logo="https://docdog.top/logo/countries/ar/MYCIMA_Thriller_Movies.png" group-title="ARAB VIP NEW",AR|MYCIMA: Thriller Movies
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130826
 #EXTINF:-1 tvg-id="" tvg-name="AR|MYCIMA: W Movies" tvg-logo="https://docdog.top/logo/countries/ar/MYCIMA_W_Movies.png" group-title="ARAB VIP NEW",AR|MYCIMA: W Movies
@@ -5583,10 +5579,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130938
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130939
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: iEN Doros 19" tvg-logo="https://docdog.top/logo/countries/ar/iEN_Doros_19.jpg" group-title="ARAB VIP NEW",AR|SA: iEN Doros 19
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130940
-#EXTINF:-1 tvg-id="" tvg-name="AR|SA: iEN Doros 20" tvg-logo="https://docdog.top/logo/countries/ar/iEN_Doros_20.jpg" group-title="ARAB VIP NEW",AR|SA: iEN Doros 20
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130941
-#EXTINF:-1 tvg-id="" tvg-name="AR|SA: iEN Doros 21" tvg-logo="https://docdog.top/logo/countries/ar/iEN_Doros_21.jpg" group-title="ARAB VIP NEW",AR|SA: iEN Doros 21
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130942
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: iEN Doros 22" tvg-logo="https://docdog.top/logo/countries/ar/iEN_Doros_22.jpg" group-title="ARAB VIP NEW",AR|SA: iEN Doros 22
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130943
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: iEN Doros 23" tvg-logo="https://docdog.top/logo/countries/ar/iEN_Doros_23.jpg" group-title="ARAB VIP NEW",AR|SA: iEN Doros 23
@@ -5599,10 +5591,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130946
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130947
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: PANORAMA FM" tvg-logo="https://docdog.top/logo/countries/ar/PANORAMA_FM.png" group-title="ARAB VIP NEW",AR|SA: PANORAMA FM
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130948
-#EXTINF:-1 tvg-id="" tvg-name="AR|SA: ROTANA AFLAM+" tvg-logo="https://docdog.top/logo/countries/ar/ROTANA_AFLAM+.png" group-title="ARAB VIP NEW",AR|SA: ROTANA AFLAM+
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130949
-#EXTINF:-1 tvg-id="" tvg-name="AR|SA: ROTANA CINEMA EGY 4K" tvg-logo="https://docdog.top/logo/countries/ar/ROTANA_CINEMA_EGY_4K.jpeg" group-title="ARAB VIP NEW",AR|SA: ROTANA CINEMA EGY 4K
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130950
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: ROTANA CINEMA EGY HD" tvg-logo="https://docdog.top/logo/countries/ar/ROTANA_CINEMA_EGY_HD.png" group-title="ARAB VIP NEW",AR|SA: ROTANA CINEMA EGY HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130951
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: ROTANA CINEMA KSA" tvg-logo="https://docdog.top/logo/countries/ar/ROTANA_CINEMA_KSA.png" group-title="ARAB VIP NEW",AR|SA: ROTANA CINEMA KSA
@@ -5615,8 +5603,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130954
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130955
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: ROTANA DRAMA" tvg-logo="https://docdog.top/logo/countries/ar/ROTANA_DRAMA.png" group-title="ARAB VIP NEW",AR|SA: ROTANA DRAMA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130956
-#EXTINF:-1 tvg-id="" tvg-name="AR|SA: ROTANA KHALIJIA" tvg-logo="https://docdog.top/logo/countries/ar/ROTANA_KHALIJIA.png" group-title="ARAB VIP NEW",AR|SA: ROTANA KHALIJIA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130957
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: ROTANA M +" tvg-logo="https://docdog.top/logo/countries/ar/ROTANA_M_+.png" group-title="ARAB VIP NEW",AR|SA: ROTANA M +
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130958
 #EXTINF:-1 tvg-id="" tvg-name="AR|SA: ROTANA MUSIC" tvg-logo="https://docdog.top/logo/countries/ar/ROTANA_MUSIC.png" group-title="ARAB VIP NEW",AR|SA: ROTANA MUSIC
@@ -5634,9 +5620,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130964
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: ACTION 1" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_ACTION_1.jpg" group-title="ARAB VIP NEW",AR|SHAHID: ACTION 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130965
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: ACTION 2" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_ACTION_2.jpg" group-title="ARAB VIP NEW",AR|SHAHID: ACTION 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130967
-#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: ACTION 2" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_ACTION_2.jpg" group-title="ARAB VIP NEW",AR|SHAHID: ACTION 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130966
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: ACTION 2" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_ACTION_2.jpg" group-title="ARAB VIP NEW",AR|SHAHID: ACTION 2
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130967
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: ADVENTURE 1" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_ADVENTURE_1.png" group-title="ARAB VIP NEW",AR|SHAHID: ADVENTURE 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130968
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: ADVENTURE 2" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_ADVENTURE_2.png" group-title="ARAB VIP NEW",AR|SHAHID: ADVENTURE 2
@@ -5697,8 +5683,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130995
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130996
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: KIDS 1" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_KIDS_1.jpg" group-title="ARAB VIP NEW",AR|SHAHID: KIDS 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130997
-#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: KIDS 2" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_KIDS_2.jpg" group-title="ARAB VIP NEW",AR|SHAHID: KIDS 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130998
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: KIDS 3" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_KIDS_3.jpg" group-title="ARAB VIP NEW",AR|SHAHID: KIDS 3
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130999
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: LIVE EVENT" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_LIVE_EVENT.png" group-title="ARAB VIP NEW",AR|SHAHID: LIVE EVENT
@@ -5773,16 +5757,12 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131031
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131034
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: AL IRAQIA SPORT" tvg-logo="https://docdog.top/logo/countries/ar/AL_IRAQIA_SPORT.png" group-title="ARAB VIP NEW",AR|SPORT: AL IRAQIA SPORT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131035
-#EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: ARRYADIA HD" tvg-logo="https://docdog.top/logo/countries/ar/ARRYADIA_HD.png" group-title="ARAB VIP NEW",AR|SPORT: ARRYADIA HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131036
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: BAHRAIN 1" tvg-logo="https://docdog.top/logo/countries/ar/BAHRAIN_1.png" group-title="ARAB VIP NEW",AR|SPORT: BAHRAIN 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131037
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: BAHRAIN SPORT 2" tvg-logo="https://docdog.top/logo/countries/ar/BAHRAIN_SPORT_2.png" group-title="ARAB VIP NEW",AR|SPORT: BAHRAIN SPORT 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131038
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: DUBAI RACING" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_RACING.png" group-title="ARAB VIP NEW",AR|SPORT: DUBAI RACING
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131039
-#EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: DUBAI RACING 2" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_RACING_2.png" group-title="ARAB VIP NEW",AR|SPORT: DUBAI RACING 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131040
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: DUBAI RACING 3" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_RACING_3.png" group-title="ARAB VIP NEW",AR|SPORT: DUBAI RACING 3
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131041
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: DUBAI SPORT 1 HD" tvg-logo="https://docdog.top/logo/countries/ar/DUBAI_SPORT_1_HD.png" group-title="ARAB VIP NEW",AR|SPORT: DUBAI SPORT 1 HD
@@ -5807,8 +5787,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131050
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131051
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: KUWAIT SPORT PLUS" tvg-logo="https://docdog.top/logo/countries/ar/KUWAIT_SPORT_PLUS.png" group-title="ARAB VIP NEW",AR|SPORT: KUWAIT SPORT PLUS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131052
-#EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: LIBYA 1" tvg-logo="https://docdog.top/logo/countries/ar/LIBYA_1.jpeg" group-title="ARAB VIP NEW",AR|SPORT: LIBYA 1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131053
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: LIBYA 2" tvg-logo="https://docdog.top/logo/countries/ar/LIBYA_2.png" group-title="ARAB VIP NEW",AR|SPORT: LIBYA 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131054
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: NILE SPORT HD" tvg-logo="https://docdog.top/logo/countries/ar/NILE_SPORT_HD.jpg" group-title="ARAB VIP NEW",AR|SPORT: NILE SPORT HD
@@ -5833,8 +5811,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131063
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131064
 #EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: YAS RACING" tvg-logo="https://docdog.top/logo/countries/ar/YAS_RACING.png" group-title="ARAB VIP NEW",AR|SPORT: YAS RACING
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131065
-#EXTINF:-1 tvg-id="" tvg-name="AR|SPORT: ZAMALEK SPORTS HD" tvg-logo="https://docdog.top/logo/countries/ar/ZAMALEK_SPORTS_HD.png" group-title="ARAB VIP NEW",AR|SPORT: ZAMALEK SPORTS HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131066
 #EXTINF:-1 tvg-id="" tvg-name="AR|SSC: 1 FHD" tvg-logo="https://docdog.top/logo/countries/ar/SSC_1_FHD.jpg" group-title="ARAB VIP NEW",AR|SSC: 1 FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131067
 #EXTINF:-1 tvg-id="" tvg-name="AR|SSC: 1 HD" tvg-logo="https://docdog.top/logo/countries/ar/SSC_1_HD.jpg" group-title="ARAB VIP NEW",AR|SSC: 1 HD
@@ -5939,14 +5915,12 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131116
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131117
 #EXTINF:-1 tvg-id="" tvg-name="AR|STARZ: STARZPLAY Premium 2 HEVC" tvg-logo="https://docdog.top/logo/countries/ar/STARZ_STARZPLAY_Premium_2_HEVC.png" group-title="ARAB VIP NEW",AR|STARZ: STARZPLAY Premium 2 HEVC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131118
-#EXTINF:-1 tvg-id="" tvg-name="AR|STARZ: STARZPLAY SPORT 1" tvg-logo="https://docdog.top/logo/countries/ar/STARZ_STARZPLAY_SPORT_1.png" group-title="ARAB VIP NEW",AR|STARZ: STARZPLAY SPORT 1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131119
 #EXTINF:-1 tvg-id="" tvg-name="AR|STARZ: STARZPLAY SPORT 3" tvg-logo="https://docdog.top/logo/countries/ar/STARZ_STARZPLAY_SPORT_3.png" group-title="ARAB VIP NEW",AR|STARZ: STARZPLAY SPORT 3
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131121
-#EXTINF:-1 tvg-id="" tvg-name="AR|STARZ: STARZPLAY SPORTS FHD" tvg-logo="https://docdog.top/logo/countries/ar/STARZ_STARZPLAY_SPORTS_FHD.png" group-title="ARAB VIP NEW",AR|STARZ: STARZPLAY SPORTS FHD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131122
 #EXTINF:-1 tvg-id="" tvg-name="AR|STARZ: STARZPLAY Sports FHD" tvg-logo="https://docdog.top/logo/countries/ar/STARZ_STARZPLAY_Sports_FHD.png" group-title="ARAB VIP NEW",AR|STARZ: STARZPLAY Sports FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131123
+#EXTINF:-1 tvg-id="" tvg-name="AR|STARZ: STARZPLAY SPORTS FHD" tvg-logo="https://docdog.top/logo/countries/ar/STARZ_STARZPLAY_SPORTS_FHD.png" group-title="ARAB VIP NEW",AR|STARZ: STARZPLAY SPORTS FHD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131122
 #EXTINF:-1 tvg-id="" tvg-name="AR|STARZ: STARZPLAY Sports HD" tvg-logo="https://docdog.top/logo/countries/ar/STARZ_STARZPLAY_Sports_HD.png" group-title="ARAB VIP NEW",AR|STARZ: STARZPLAY Sports HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/131124
 #EXTINF:-1 tvg-id="" tvg-name="AR|STARZ: STARZPLAY Sports HEVC" tvg-logo="https://docdog.top/logo/countries/ar/STARZ_STARZPLAY_Sports_HEVC.png" group-title="ARAB VIP NEW",AR|STARZ: STARZPLAY Sports HEVC
@@ -6046,9 +6020,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4021
 #EXTINF:-1 tvg-id="" tvg-name="AT: SRF 1" tvg-logo="https://docdog.top/logo/countries/austria/srf1.png" group-title="EU | AUSTRIA VIP",AT: SRF 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4022
 #EXTINF:-1 tvg-id="" tvg-name="AT: SRF ZWEI" tvg-logo="https://docdog.top/logo/countries/austria/srf2.png" group-title="EU | AUSTRIA VIP",AT: SRF ZWEI
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4024
-#EXTINF:-1 tvg-id="" tvg-name="AT: SRF ZWEI" tvg-logo="https://docdog.top/logo/countries/austria/srf2.png" group-title="EU | AUSTRIA VIP",AT: SRF ZWEI
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4023
+#EXTINF:-1 tvg-id="" tvg-name="AT: SRF ZWEI" tvg-logo="https://docdog.top/logo/countries/austria/srf2.png" group-title="EU | AUSTRIA VIP",AT: SRF ZWEI
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4024
 #EXTINF:-1 tvg-id="" tvg-name="AT: SUPER RTL" tvg-logo="https://docdog.top/logo/countries/austria/superrtl.png" group-title="EU | AUSTRIA VIP",AT: SUPER RTL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4025
 #EXTINF:-1 tvg-id="" tvg-name="AT: VOX" tvg-logo="https://docdog.top/logo/countries/austria/vox.png" group-title="EU | AUSTRIA VIP",AT: VOX
@@ -6190,9 +6164,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Action/Adventure",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137062.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137678.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avengement (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXPxSAYf3FdQktnOtQnvhUPMhFp.jpg" group-title="AMAZON | TOP",Avengement (2019)
@@ -7410,9 +7384,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/115057
 #EXTINF:-1 tvg-id="" tvg-name="Bhakshak (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eCELoyf0l3njFKfn3oddo3JaRG.jpg" group-title="NETFLIX | Drama",Bhakshak (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133324.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Big City Greens the Movie: Spacecation (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wV0nNtlL0nxgse8llRi7SypkCQI.jpg" group-title="DISNEY | Animation",Big City Greens the Movie: Spacecation (2024)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137381.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Big City Greens the Movie: Spacecation (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wV0nNtlL0nxgse8llRi7SypkCQI.jpg" group-title="DISNEY | Animation",Big City Greens the Movie: Spacecation (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big City Greens the Movie: Spacecation (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wV0nNtlL0nxgse8llRi7SypkCQI.jpg" group-title="DISNEY | Animation",Big City Greens the Movie: Spacecation (2024)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137381.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Big Game (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZZ5IikYOp3VlyrzyJs4hxSHHXi.jpg" group-title="AMAZON | Mystery And Thriller",Big Game (2015)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143122.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Big George Foreman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg" group-title="DISNEY | Drama",Big George Foreman (2023)
@@ -7455,10 +7429,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/132940.mkv
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144170
 #EXTINF:-1 tvg-id="" tvg-name="BIH: ALFA TV" tvg-logo="https://docdog.top/logo/countries/BIH/ALFA_TV.png" group-title="EXYU | BIH VIP",BIH: ALFA TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144171
-#EXTINF:-1 tvg-id="" tvg-name="BIH: ATV BANJA LUKA" tvg-logo="https://docdog.top/logo/countries/BIH/ATV_BANJA_LUKA.png" group-title="EXYU | BIH VIP",BIH: ATV BANJA LUKA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144172
-#EXTINF:-1 tvg-id="" tvg-name="BIH: BHT 1" tvg-logo="https://docdog.top/logo/countries/BIH/BHT_1.png" group-title="EXYU | BIH VIP",BIH: BHT 1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144173
 #EXTINF:-1 tvg-id="" tvg-name="BIH: BN TV" tvg-logo="https://docdog.top/logo/countries/BIH/BN_TV.png" group-title="EXYU | BIH VIP",BIH: BN TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144174
 #EXTINF:-1 tvg-id="" tvg-name="BIH: BN TV (B)" tvg-logo="https://docdog.top/logo/countries/BIH/BN_TV_B.png" group-title="EXYU | BIH VIP",BIH: BN TV (B)
@@ -8917,8 +8887,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/144101.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139741.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Check Inn to Christmas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBf66qLun33OVdzjSOnQYJNWP1r.jpg" group-title="AMAZON | Romantic Comedies",Check Inn to Christmas (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Checkered Ninja 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg" group-title="AMAZON | TOP",Checkered Ninja 2 (2021)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142704.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Checking_out_her_acting_skills" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W4wbG3nAGQhxeYGD2k63td0ha9.jpg" group-title="XXX 18+",Checking_out_her_acting_skills
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139941.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Checkmate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLO0Y1wI8gqv6JH1cqA2PGyyCup.jpg" group-title="AMAZON | TOP",Checkmate (2024)
@@ -10005,16 +9973,12 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3090
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3091
 #EXTINF:-1 tvg-id="" tvg-name="CRO: VINKOVACKA TV" tvg-logo="https://docdog.top/logo/countries/croatia/plava-vinkovacka-hr.png" group-title="EU | CROATIA VIP",CRO: VINKOVACKA TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3092
-#EXTINF:-1 tvg-id="" tvg-name="CRO: VINKOVACKA TV" tvg-logo="https://docdog.top/logo/countries/CRO/VINKOVACKA_TV.png" group-title="EXYU | CRO VIP",CRO: VINKOVACKA TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144252
 #EXTINF:-1 tvg-id="" tvg-name="CRO: VIP MAX SPORT 1" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport1.png" group-title="EU | CROATIA VIP",CRO: VIP MAX SPORT 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/34146
 #EXTINF:-1 tvg-id="" tvg-name="CRO: VIP MAX SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport2.png" group-title="EU | CROATIA VIP",CRO: VIP MAX SPORT 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/37641
 #EXTINF:-1 tvg-id="" tvg-name="CRO: VTV Televizija" tvg-logo="" group-title="EU | CROATIA VIP",CRO: VTV Televizija
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/114952
-#EXTINF:-1 tvg-id="" tvg-name="CRO: VTV TELEVIZIJA" tvg-logo="https://docdog.top/logo/countries/CRO/VTV_TELEVIZIJA.png" group-title="EXYU | CRO VIP",CRO: VTV TELEVIZIJA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144253
 #EXTINF:-1 tvg-id="" tvg-name="CRO: VTV VARAZDINE" tvg-logo="https://docdog.top/logo/countries/croatia/varazdinska-televizija-hr.png" group-title="EU | CROATIA VIP",CRO: VTV VARAZDINE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3093
 #EXTINF:-1 tvg-id="" tvg-name="CRO: Z1" tvg-logo="https://docdog.top/logo/countries/croatia/z1-hr.png" group-title="EU | CROATIA VIP",CRO: Z1
@@ -11389,10 +11353,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134816
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135055
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY ONE" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_ONE_HD.png" group-title="DE | CINEMA SERIEN",DE: SKY ONE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134817
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_REPLAY.png" group-title="DE | CINEMA SERIEN",DE: SKY REPLAY
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134818
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_REPLAY_HD.png" group-title="DE | CINEMA SERIEN",DE: SKY REPLAY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134819
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_REPLAY.png" group-title="DE | CINEMA SERIEN",DE: SKY REPLAY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134818
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1" tvg-logo="https://docdog.top/logo/countries/germany/Sky_Select.png" group-title="DE | CINEMA SERIEN",DE: Sky Select 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/148911
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2" tvg-logo="https://docdog.top/logo/countries/germany/Sky_Select.png" group-title="DE | CINEMA SERIEN",DE: Sky Select 2
@@ -12142,9 +12106,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Descendants 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg" group-title="DISNEY | Audio Description",Descendants 3 (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Descendants: The Rise of Red (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="DISNEY | Audio Description",Descendants: The Rise of Red (2024)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137435.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Descendants: The Rise of Red (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="DISNEY | Audio Description",Descendants: The Rise of Red (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descendants: The Rise of Red (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="DISNEY | Audio Description",Descendants: The Rise of Red (2024)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137435.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Descendants: The Rise of Red (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="DISNEY | Fantasy",Descendants: The Rise of Red (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137740.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Descendants: The Rise of Red (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="DISNEY | Kids",Descendants: The Rise of Red (2024)
@@ -13683,14 +13647,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/115130
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3460
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAHA" tvg-logo="https://docdog.top/logo/countries/exyu/pinkhaha.png" group-title="EU | EX-YU VIP",EX-YU: HAHA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3461
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAPPY TV" tvg-logo="https://docdog.top/logo/countries/exyu/happytv.png" group-title="EU | EX-YU VIP",EX-YU: HAPPY TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3462
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAYAT" tvg-logo="https://docdog.top/logo/countries/exyu/hayat.png" group-title="EU | EX-YU VIP",EX-YU: HAYAT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3463
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAYAT FOLK" tvg-logo="https://docdog.top/logo/countries/exyu/hayatfolk.png" group-title="EU | EX-YU VIP",EX-YU: HAYAT FOLK
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3464
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAYAT PLUS" tvg-logo="https://docdog.top/logo/countries/exyu/hayatplus.png" group-title="EU | EX-YU VIP",EX-YU: HAYAT PLUS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3465
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAYATOVCI" tvg-logo="https://docdog.top/logo/countries/exyu/hayatovci.png" group-title="EU | EX-YU VIP",EX-YU: HAYATOVCI
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3466
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HBO" tvg-logo="https://docdog.top/logo/countries/exyu/hbo.png" group-title="EU | EX-YU VIP",EX-YU: HBO
@@ -14259,8 +14219,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144286
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144318
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ANIMAL_PLANET.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: ANIMAL PLANET
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144287
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ANTENA RADIO" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ANTENA_RADIO.png" group-title="EXYU | RADIO VIP",EXYU: ANTENA RADIO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144457
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA ESPORT (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_ESPORT_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA ESPORT (SRB)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144489
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA FIGHT (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_FIGHT_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA FIGHT (SRB)
@@ -14343,12 +14301,8 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144527
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144528
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: AXN" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/AXN.png" group-title="EXYU | FILMSKI VIP",EXYU: AXN
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144319
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: AXN SPIN" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/AXN_SPIN.png" group-title="EXYU | FILMSKI VIP",EXYU: AXN SPIN
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144320
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: BABY TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/BABY_TV.png" group-title="EXYU | DECA VIP",EXYU: BABY TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144256
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: BALKAN TRIP" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/BALKAN_TRIP.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: BALKAN TRIP
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144288
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: BALKAN TV SALZBURG" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/BALKAN_TV_SALZBURG.png" group-title="EXYU | MUZIKA VIP",EXYU: BALKAN TV SALZBURG
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144402
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: BALKANIKA MUSIC TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/BALKANIKA_MUSIC_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: BALKANIKA MUSIC TV
@@ -14361,16 +14315,8 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144257
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144404
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: BOX OFFICE 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/BOX_OFFICE_1.png" group-title="EXYU | FILMSKI VIP",EXYU: BOX OFFICE 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144321
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: BOX OFFICE 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/BOX_OFFICE_2.png" group-title="EXYU | FILMSKI VIP",EXYU: BOX OFFICE 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144322
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: BOX OFFICE 3" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/BOX_OFFICE_3.png" group-title="EXYU | FILMSKI VIP",EXYU: BOX OFFICE 3
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144323
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: BRAVO (EX NARODNI TV)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/BRAVO_EX_NARODNI_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: BRAVO (EX NARODNI TV)
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144405
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CARTOON_NETWORK.png" group-title="EXYU | DECA VIP",EXYU: CARTOON NETWORK
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144258
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: CINE+ SELECT 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINE+_SELECT_1.png" group-title="EXYU | FILMSKI VIP",EXYU: CINE+ SELECT 1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144324
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINE+ SELECT 10" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINE+_SELECT_10.png" group-title="EXYU | FILMSKI VIP",EXYU: CINE+ SELECT 10
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144325
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINE+ SELECT 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINE+_SELECT_2.png" group-title="EXYU | FILMSKI VIP",EXYU: CINE+ SELECT 2
@@ -14381,14 +14327,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144327
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144328
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINE+ SELECT 5" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINE+_SELECT_5.png" group-title="EXYU | FILMSKI VIP",EXYU: CINE+ SELECT 5
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144329
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: CINE+ SELECT 6" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINE+_SELECT_6.png" group-title="EXYU | FILMSKI VIP",EXYU: CINE+ SELECT 6
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144330
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: CINE+ SELECT 7" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINE+_SELECT_7.png" group-title="EXYU | FILMSKI VIP",EXYU: CINE+ SELECT 7
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144331
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: CINE+ SELECT 8" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINE+_SELECT_8.png" group-title="EXYU | FILMSKI VIP",EXYU: CINE+ SELECT 8
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144332
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: CINE+ SELECT 9" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINE+_SELECT_9.png" group-title="EXYU | FILMSKI VIP",EXYU: CINE+ SELECT 9
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144333
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINEMANIA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINEMANIA.png" group-title="EXYU | FILMSKI VIP",EXYU: CINEMANIA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144334
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINEMAX 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINEMAX_1.png" group-title="EXYU | FILMSKI VIP",EXYU: CINEMAX 1
@@ -14397,8 +14335,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144335
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144336
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINESTAR ACTION" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINESTAR_ACTION.png" group-title="EXYU | FILMSKI VIP",EXYU: CINESTAR ACTION
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144337
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: CINESTAR COMEDY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINESTAR_COMEDY.png" group-title="EXYU | FILMSKI VIP",EXYU: CINESTAR COMEDY
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144338
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINESTAR FANTASY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINESTAR_FANTASY.png" group-title="EXYU | FILMSKI VIP",EXYU: CINESTAR FANTASY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144339
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINESTAR PREMIERE 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINESTAR_PREMIERE_1.png" group-title="EXYU | FILMSKI VIP",EXYU: CINESTAR PREMIERE 1
@@ -14407,16 +14343,12 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144340
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144341
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CINESTAR TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINESTAR_TV.png" group-title="EXYU | FILMSKI VIP",EXYU: CINESTAR TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144342
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: CINESTAR TV 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CINESTAR_TV_2.png" group-title="EXYU | FILMSKI VIP",EXYU: CINESTAR TV 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144343
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CITYPLAY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CITYPLAY.png" group-title="EXYU | MUZIKA VIP",EXYU: CITYPLAY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144406
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CMC" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CMC.png" group-title="EXYU | MUZIKA VIP",EXYU: CMC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144407
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CNN" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CNN.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: CNN
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144290
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: COOL RADIO" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/COOL_RADIO.png" group-title="EXYU | RADIO VIP",EXYU: COOL RADIO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144458
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: CRIME & INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/CRIME__INVESTIGATION.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: CRIME & INVESTIGATION
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144291
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: DA VINCI LEARNING" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DA_VINCI_LEARNING.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: DA VINCI LEARNING
@@ -14429,8 +14361,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144294
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144408
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DISNEY_CHANNEL.png" group-title="EXYU | DECA VIP",EXYU: DISNEY CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144259
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: DIVA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DIVA.png" group-title="EXYU | FILMSKI VIP",EXYU: DIVA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144344
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: DIZI (TURSKE SERIJE)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DIZI_TURSKE_SERIJE.png" group-title="EXYU | FILMSKI VIP",EXYU: DIZI (TURSKE SERIJE)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144345
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: DM SAT" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DM_SAT.png" group-title="EXYU | MUZIKA VIP",EXYU: DM SAT
@@ -14439,22 +14369,12 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144409
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144410
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: DOKU TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DOKU_TV.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: DOKU TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144295
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: DOX TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DOX_TV.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: DOX TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144296
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: DUCK TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DUCK_TV.png" group-title="EXYU | DECA VIP",EXYU: DUCK TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144260
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: DUGA TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DUGA_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: DUGA TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144411
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: E! ENTERTAINMENT" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/E!_ENTERTAINMENT.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: E! ENTERTAINMENT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144297
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: EPIC DRAMA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EPIC_DRAMA.png" group-title="EXYU | FILMSKI VIP",EXYU: EPIC DRAMA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144346
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: EURO CINEMA 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EURO_CINEMA_1.png" group-title="EXYU | FILMSKI VIP",EXYU: EURO CINEMA 1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144347
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: EURO CINEMA 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EURO_CINEMA_2.png" group-title="EXYU | FILMSKI VIP",EXYU: EURO CINEMA 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144348
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: EURO CINEMA 3" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EURO_CINEMA_3.png" group-title="EXYU | FILMSKI VIP",EXYU: EURO CINEMA 3
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144349
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: EURO CINEMA 4" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EURO_CINEMA_4.png" group-title="EXYU | FILMSKI VIP",EXYU: EURO CINEMA 4
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144350
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: EUROSPORT 1 FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EUROSPORT_1_FHD.png" group-title="EXYU | SPORT VIP",EXYU: EUROSPORT 1 FHD
@@ -14467,12 +14387,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144531
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144532
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: EXTRA TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EXTRA_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: EXTRA TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144412
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: FASHIONTV (FTV)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/FASHIONTV_FTV.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: FASHIONTV (FTV)
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144298
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: FASHIONTV (FTV) MIDNIGHT SECRETS" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/FASHIONTV_FTV_MIDNIGHT_SECRETS.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: FASHIONTV (FTV) MIDNIGHT SECRETS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144299
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: FASHIONTV (FTV) NEWYORK" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/FASHIONTV_FTV_NEWYORK.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: FASHIONTV (FTV) NEWYORK
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144300
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: FASHIONTV (FTV) PARIS" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/FASHIONTV_FTV_PARIS.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: FASHIONTV (FTV) PARIS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144301
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: FIGHT NETWORK" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/FIGHT_NETWORK.png" group-title="EXYU | SPORT VIP",EXYU: FIGHT NETWORK
@@ -14489,20 +14403,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144353
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144534
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: GRAND 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/GRAND_2.png" group-title="EXYU | MUZIKA VIP",EXYU: GRAND 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144413
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: GRAND NARODNA TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/GRAND_NARODNA_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: GRAND NARODNA TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144414
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: HAJDUK TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HAJDUK_TV.png" group-title="EXYU | SPORT VIP",EXYU: HAJDUK TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144535
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: HAYAT FOLK" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HAYAT_FOLK.png" group-title="EXYU | MUZIKA VIP",EXYU: HAYAT FOLK
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144415
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: HAYAT MUSIC" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HAYAT_MUSIC.png" group-title="EXYU | MUZIKA VIP",EXYU: HAYAT MUSIC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144416
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: HAYATOVCI" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HAYATOVCI.png" group-title="EXYU | DECA VIP",EXYU: HAYATOVCI
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144261
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: HBO" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HBO.png" group-title="EXYU | FILMSKI VIP",EXYU: HBO
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144354
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: HBO 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HBO_2.png" group-title="EXYU | FILMSKI VIP",EXYU: HBO 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144355
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: HBO 3" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HBO_3.png" group-title="EXYU | FILMSKI VIP",EXYU: HBO 3
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144356
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: HBO GO" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HBO_GO.png" group-title="EXYU | FILMSKI VIP",EXYU: HBO GO
@@ -14515,10 +14419,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144303
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144304
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: HISTORY CHANNEL" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HISTORY_CHANNEL.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: HISTORY CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144305
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: HIT FM TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HIT_FM_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: HIT FM TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144417
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: HYPE" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HYPE.png" group-title="EXYU | MUZIKA VIP",EXYU: HYPE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144418
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: IDJ TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/IDJ_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: IDJ TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144419
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: IMPERIA TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/IMPERIA_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: IMPERIA TV
@@ -14527,20 +14427,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144420
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144421
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: KANAL 6 HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/KANAL_6_HD.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: KANAL 6 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144306
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: KINO TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/KINO_TV.png" group-title="EXYU | FILMSKI VIP",EXYU: KINO TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144359
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: KLASIK TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/KLASIK_TV.png" group-title="EXYU | FILMSKI VIP",EXYU: KLASIK TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144360
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: LOV I RIBOLOV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/LOV_I_RIBOLOV.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: LOV I RIBOLOV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144307
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: LUD ZBUNJEN NORMALAN 24/7" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/LUD_ZBUNJEN_NORMALAN_247.png" group-title="EXYU | FILMSKI VIP",EXYU: LUD ZBUNJEN NORMALAN 24/7
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144361
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: M1 FILM" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/M1_FILM.png" group-title="EXYU | FILMSKI VIP",EXYU: M1 FILM
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144362
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: M1 GOLD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/M1_GOLD.png" group-title="EXYU | FILMSKI VIP",EXYU: M1 GOLD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144363
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: MASA I MEDO (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MASA_I_MEDO_BIH.png" group-title="EXYU | DECA VIP",EXYU: MASA I MEDO (BIH)
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144262
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MASA I MEDVED (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MASA_I_MEDVED_SRB.png" group-title="EXYU | DECA VIP",EXYU: MASA I MEDVED (SRB)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144263
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MAX SPORT 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MAX_SPORT_1.png" group-title="EXYU | SPORT VIP",EXYU: MAX SPORT 1
@@ -14555,8 +14445,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144265
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144266
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MOJA HAPPY MUZIKA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MOJA_HAPPY_MUZIKA.png" group-title="EXYU | MUZIKA VIP",EXYU: MOJA HAPPY MUZIKA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144422
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: MTV CLASSIC" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MTV_CLASSIC.png" group-title="EXYU | MUZIKA VIP",EXYU: MTV CLASSIC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144423
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MTV DANCE" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MTV_DANCE.png" group-title="EXYU | MUZIKA VIP",EXYU: MTV DANCE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144424
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MTV HITS" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MTV_HITS.png" group-title="EXYU | MUZIKA VIP",EXYU: MTV HITS
@@ -14571,20 +14459,8 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144428
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144429
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK JEKA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_JEKA.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK JEKA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144430
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK MOBA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_MOBA.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK MOBA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144431
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK POP STAR" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_POP_STAR.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK POP STAR
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144432
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK ROCK&ROLL" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_ROCKROLL.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK ROCK&ROLL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144433
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK SENSE" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_SENSE.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK SENSE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144434
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK TIKTAK" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_TIKTAK.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK TIKTAK
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144435
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144436
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK WORLD WIDE MUZZIK" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_WORLD_WIDE_MUZZIK.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK WORLD WIDE MUZZIK
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144437
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK ZZ 4000" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_ZZ_4000.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK ZZ 4000
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144438
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: MUZZIK ZZ TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MUZZIK_ZZ_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: MUZZIK ZZ TV
@@ -14609,16 +14485,12 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144269
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144270
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA CINEMA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_CINEMA.png" group-title="EXYU | FILMSKI VIP",EXYU: NOVA CINEMA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144364
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA DOCUMENTARY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_DOCUMENTARY.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: NOVA DOCUMENTARY
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144311
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA FAMILY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_FAMILY.png" group-title="EXYU | FILMSKI VIP",EXYU: NOVA FAMILY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144365
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA MAX" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_MAX.png" group-title="EXYU | FILMSKI VIP",EXYU: NOVA MAX
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144366
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA PLUS CINEMA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_PLUS_CINEMA.png" group-title="EXYU | FILMSKI VIP",EXYU: NOVA PLUS CINEMA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144367
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA PLUS CINEMA 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_PLUS_CINEMA_2.png" group-title="EXYU | FILMSKI VIP",EXYU: NOVA PLUS CINEMA 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144368
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA PLUS FAMILY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_PLUS_FAMILY.png" group-title="EXYU | FILMSKI VIP",EXYU: NOVA PLUS FAMILY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144369
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA SERIES" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_SERIES.png" group-title="EXYU | FILMSKI VIP",EXYU: NOVA SERIES
@@ -14627,8 +14499,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144370
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144541
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: NOVA WORLD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_WORLD.png" group-title="EXYU | FILMSKI VIP",EXYU: NOVA WORLD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144371
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: OK RADIO" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/OK_RADIO.png" group-title="EXYU | RADIO VIP",EXYU: OK RADIO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144461
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: PATROLNE SAPE (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/PATROLNE_SAPE_SRB.png" group-title="EXYU | DECA VIP",EXYU: PATROLNE SAPE (SRB)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144271
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: PEPA PRASE (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/PEPA_PRASE_SRB.png" group-title="EXYU | DECA VIP",EXYU: PEPA PRASE (SRB)
@@ -14649,8 +14519,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144443
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144274
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: PINK MUSIC 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/PINK_MUSIC_1.png" group-title="EXYU | MUZIKA VIP",EXYU: PINK MUSIC 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144444
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: PINK MUSIC 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/PINK_MUSIC_2.png" group-title="EXYU | MUZIKA VIP",EXYU: PINK MUSIC 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144445
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: PINK PANTER TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/PINK_PANTER_TV.png" group-title="EXYU | DECA VIP",EXYU: PINK PANTER TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144275
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: PINK SUPER KIDS" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/PINK_SUPER_KIDS.png" group-title="EXYU | DECA VIP",EXYU: PINK SUPER KIDS
@@ -14669,8 +14537,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144463
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144447
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: RADIO LAGUNA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/RADIO_LAGUNA.png" group-title="EXYU | RADIO VIP",EXYU: RADIO LAGUNA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144464
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: RADIO LOLA TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/RADIO_LOLA_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: RADIO LOLA TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144448
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: RADIO NOVOSTI" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/RADIO_NOVOSTI.png" group-title="EXYU | RADIO VIP",EXYU: RADIO NOVOSTI
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144465
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: RADIO PINK" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/RADIO_PINK.png" group-title="EXYU | RADIO VIP",EXYU: RADIO PINK
@@ -14713,8 +14579,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144480
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144481
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: RTS RADIO VRTESKA" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/RTS_RADIO_VRTESKA.png" group-title="EXYU | RADIO VIP",EXYU: RTS RADIO VRTESKA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144482
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: SCIFI" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SCIFI.png" group-title="EXYU | FILMSKI VIP",EXYU: SCIFI
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144373
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: SEVDAH TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SEVDAH_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: SEVDAH TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144450
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: SPORT KLUB 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_1.png" group-title="EXYU | SPORT VIP",EXYU: SPORT KLUB 1
@@ -14753,10 +14617,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144558
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144559
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: SPORTSKA TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORTSKA_TV.png" group-title="EXYU | SPORT VIP",EXYU: SPORTSKA TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144560
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: STAR" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/STAR.png" group-title="EXYU | FILMSKI VIP",EXYU: STAR
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144374
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: STAR CRIME" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/STAR_CRIME.png" group-title="EXYU | FILMSKI VIP",EXYU: STAR CRIME
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144375
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: STAR LIFE" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/STAR_LIFE.png" group-title="EXYU | FILMSKI VIP",EXYU: STAR LIFE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144376
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: STAR MOVIES" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/STAR_MOVIES.png" group-title="EXYU | FILMSKI VIP",EXYU: STAR MOVIES
@@ -14779,8 +14639,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144451
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144280
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TESLAVISION USPAVANKE 24/7" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TESLAVISION_USPAVANKE_247.png" group-title="EXYU | DECA VIP",EXYU: TESLAVISION USPAVANKE 24/7
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144281
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TLC" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TLC.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: TLC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144313
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TNT KIDS" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TNT_KIDS.png" group-title="EXYU | DECA VIP",EXYU: TNT KIDS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144282
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TOM & JERRY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TOM__JERRY.png" group-title="EXYU | DECA VIP",EXYU: TOM & JERRY
@@ -14789,60 +14647,38 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144283
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144452
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TOXIC" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TOXIC.png" group-title="EXYU | MUZIKA VIP",EXYU: TOXIC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144453
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TRAVEL CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TRAVEL_CHANNEL_HD.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: TRAVEL CHANNEL HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144314
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TROPIK TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TROPIK_TV.png" group-title="EXYU | DECA VIP",EXYU: TROPIK TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144284
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA PREMIERE 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_PREMIERE_1.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA PREMIERE 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144380
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA PREMIERE 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_PREMIERE_2.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA PREMIERE 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144381
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_1.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144382
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 10" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_10.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 10
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144383
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_2.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144384
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 3" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_3.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 3
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144385
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 4" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_4.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 4
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144386
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 5" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_5.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 5
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144387
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 6" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_6.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 6
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144388
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 7" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_7.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 7
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144389
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 8" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_8.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 8
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144390
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV GORA SELECT 9" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_GORA_SELECT_9.png" group-title="EXYU | FILMSKI VIP",EXYU: TV GORA SELECT 9
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144391
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV PARTIZAN" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_PARTIZAN.png" group-title="EXYU | SPORT VIP",EXYU: TV PARTIZAN
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144561
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TV SELECT 1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_SELECT_1.png" group-title="EXYU | FILMSKI VIP",EXYU: TV SELECT 1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144392
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV SELECT 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_SELECT_2.png" group-title="EXYU | FILMSKI VIP",EXYU: TV SELECT 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144393
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV SELECT 3" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_SELECT_3.png" group-title="EXYU | FILMSKI VIP",EXYU: TV SELECT 3
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144394
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV SELECT 4" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_SELECT_4.png" group-title="EXYU | FILMSKI VIP",EXYU: TV SELECT 4
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144395
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TV SELECT 5" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_SELECT_5.png" group-title="EXYU | FILMSKI VIP",EXYU: TV SELECT 5
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144396
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV SELECT 6" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_SELECT_6.png" group-title="EXYU | FILMSKI VIP",EXYU: TV SELECT 6
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144397
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: TV SELECT 7" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_SELECT_7.png" group-title="EXYU | FILMSKI VIP",EXYU: TV SELECT 7
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144398
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: TV SELECT 8" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/TV_SELECT_8.png" group-title="EXYU | FILMSKI VIP",EXYU: TV SELECT 8
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144399
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: UNA TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/UNA_TV.png" group-title="EXYU | FILMSKI VIP",EXYU: UNA TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144400
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: VALENTINO TV" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/VALENTINO_TV.png" group-title="EXYU | MUZIKA VIP",EXYU: VALENTINO TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144454
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: VH1" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/VH1.png" group-title="EXYU | MUZIKA VIP",EXYU: VH1
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144455
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: VIASAT EXPLORE" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/VIASAT_EXPLORE.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: VIASAT EXPLORE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144315
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: VIASAT HISTORY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/VIASAT_HISTORY.png" group-title="EXYU | DOKUMENTARNI VIP",EXYU: VIASAT HISTORY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144316
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: VIASAT KINO (TV 1000)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/VIASAT_KINO_TV_1000.png" group-title="EXYU | FILMSKI VIP",EXYU: VIASAT KINO (TV 1000)
@@ -17216,9 +17052,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142557.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Homestead (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aibubaLT6ihRtKEraGBDU82w8aA.jpg" group-title="AMAZON | Western",Homestead (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/144108.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hometown Holiday (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3bGT5QJFO34axxboOOYyWMjt5V.jpg" group-title="AMAZON | Romance",Hometown Holiday (2018)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142102.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hometown Holiday (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3bGT5QJFO34axxboOOYyWMjt5V.jpg" group-title="AMAZON | Romance",Hometown Holiday (2018)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Holiday (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3bGT5QJFO34axxboOOYyWMjt5V.jpg" group-title="AMAZON | Romance",Hometown Holiday (2018)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142102.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Homeward Bound II: Lost in San Francisco (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfYawa9SF9MQ3ae0TXAfhDLFGv7.jpg" group-title="DISNEY | Action/Adventure",Homeward Bound II: Lost in San Francisco (1996)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136940.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Homeward Bound: The Incredible Journey (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg" group-title="DISNEY | Action/Adventure",Homeward Bound: The Incredible Journey (1993)
@@ -17581,8 +17417,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137148.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139705.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hunting with Tigers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6ovFjd6fhq6SEklcxP5axlVJn.jpg" group-title="AMAZON | Mystery And Thriller",Hunting with Tigers (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Huramentado: Kill the President (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EBxrQIsntTzSkH4167yGnNzMjk.jpg" group-title="AMAZON | TOP",Huramentado: Kill the President (2016)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142617.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hurley (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftPvUrddAWsK7GhXMe913yAF6nN.jpg" group-title="AMAZON | Kids And Family",Hurley (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139439.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hurricane Season (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DyCTyS7NdbGCp6zWoAkVGM8p9j.jpg" group-title="NETFLIX | Drama",Hurricane Season (2023)
@@ -18237,14 +18071,8 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7062
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7063
 #EXTINF:-1 tvg-id="" tvg-name="IN: &AMP; PRIVE" tvg-logo="https://docdog.top/logo/countries/india/and-prive-in.png" group-title="ASIA | INDIA VIP",IN: &AMP; PRIVE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7064
-#EXTINF:-1 tvg-id="" tvg-name="IN: &AMP;TV" tvg-logo="https://docdog.top/logo/countries/india/and-tv-in.png" group-title="ASIA | INDIA VIP",IN: &AMP;TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7065
 #EXTINF:-1 tvg-id="" tvg-name="IN: 1ST INDIA NEWS" tvg-logo="https://docdog.top/logo/countries/india/india-news-in.png" group-title="ASIA | INDIA VIP",IN: 1ST INDIA NEWS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7067
-#EXTINF:-1 tvg-id="" tvg-name="IN: 3 TAMIL TV" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA VIP",IN: 3 TAMIL TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7066
-#EXTINF:-1 tvg-id="" tvg-name="IN: 5AAB TV" tvg-logo="https://docdog.top/logo/countries/india/5aabtv.png" group-title="ASIA | INDIA VIP",IN: 5AAB TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7068
 #EXTINF:-1 tvg-id="" tvg-name="IN: 7S MUSIC" tvg-logo="https://docdog.top/logo/countries/india/7smusic.png" group-title="ASIA | INDIA VIP",IN: 7S MUSIC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7069
 #EXTINF:-1 tvg-id="" tvg-name="IN: 8XM" tvg-logo="https://docdog.top/logo/countries/india/8xm.png" group-title="ASIA | INDIA VIP",IN: 8XM
@@ -18301,16 +18129,8 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7094
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7095
 #EXTINF:-1 tvg-id="" tvg-name="IN: B4U MUSIC" tvg-logo="https://docdog.top/logo/countries/india/B4UMUSIC.jpg" group-title="ASIA | INDIA VIP",IN: B4U MUSIC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7055
-#EXTINF:-1 tvg-id="" tvg-name="IN: B4U PLUS" tvg-logo="https://docdog.top/logo/countries/india/b4uplus.png" group-title="ASIA | INDIA VIP",IN: B4U PLUS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7096
-#EXTINF:-1 tvg-id="" tvg-name="IN: BABY TV" tvg-logo="https://docdog.top/logo/countries/india/babytv.png" group-title="ASIA | INDIA VIP",IN: BABY TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7097
 #EXTINF:-1 tvg-id="" tvg-name="IN: BBC WORLD" tvg-logo="https://docdog.top/logo/countries/india/bbcworldnews.png" group-title="ASIA | INDIA VIP",IN: BBC WORLD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7098
-#EXTINF:-1 tvg-id="" tvg-name="IN: BFLIX MOVIES" tvg-logo="https://docdog.top/logo/countries/india/bflix-movies-in.png" group-title="ASIA | INDIA VIP",IN: BFLIX MOVIES
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7099
-#EXTINF:-1 tvg-id="" tvg-name="IN: BHAKTI TV" tvg-logo="https://docdog.top/logo/countries/india/bhaktitv.png" group-title="ASIA | INDIA VIP",IN: BHAKTI TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7100
 #EXTINF:-1 tvg-id="" tvg-name="IN: BHARAT SAMACHAR" tvg-logo="https://docdog.top/logo/countries/india/bharat-samachar-in.png" group-title="ASIA | INDIA VIP",IN: BHARAT SAMACHAR
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7101
 #EXTINF:-1 tvg-id="" tvg-name="IN: BHOJPURI CINEMA" tvg-logo="https://docdog.top/logo/countries/india//bhojpuricinema.png" group-title="ASIA | INDIA VIP",IN: BHOJPURI CINEMA
@@ -18415,10 +18235,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7150
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7151
 #EXTINF:-1 tvg-id="" tvg-name="IN: DISCOVERY SCIENCE HINDI" tvg-logo="https://docdog.top/logo/countries/india/discoveryscience.png" group-title="ASIA | INDIA VIP",IN: DISCOVERY SCIENCE HINDI
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7152
-#EXTINF:-1 tvg-id="" tvg-name="IN: DISCOVERY TURBO" tvg-logo="https://docdog.top/logo/countries/india/discoveryturbo.png" group-title="ASIA | INDIA VIP",IN: DISCOVERY TURBO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7153
-#EXTINF:-1 tvg-id="" tvg-name="IN: DISCOVERY WORLD" tvg-logo="https://docdog.top/logo/countries/india/discoveryworld.png" group-title="ASIA | INDIA VIP",IN: DISCOVERY WORLD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7154
 #EXTINF:-1 tvg-id="" tvg-name="IN: DISNEY" tvg-logo="https://docdog.top/logo/countries/india/disney.png" group-title="ASIA | INDIA VIP",IN: DISNEY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7155
 #EXTINF:-1 tvg-id="" tvg-name="IN: DIVYA TV" tvg-logo="https://docdog.top/logo/countries/india/divya-in.png" group-title="ASIA | INDIA VIP",IN: DIVYA TV
@@ -18481,8 +18297,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7182
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7183
 #EXTINF:-1 tvg-id="" tvg-name="IN: HARVEST TV USA" tvg-logo="https://docdog.top/logo/countries/india/harvesttv.png" group-title="ASIA | INDIA VIP",IN: HARVEST TV USA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7184
-#EXTINF:-1 tvg-id="" tvg-name="IN: HBO" tvg-logo="https://docdog.top/logo/countries/india/hbo.png" group-title="ASIA | INDIA VIP",IN: HBO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7185
 #EXTINF:-1 tvg-id="" tvg-name="IN: HINDU DHARMAM" tvg-logo="https://docdog.top/logo/countries/india/hindudharmam.png" group-title="ASIA | INDIA VIP",IN: HINDU DHARMAM
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7186
 #EXTINF:-1 tvg-id="" tvg-name="IN: HIRU TV" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA VIP",IN: HIRU TV
@@ -18523,18 +18337,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7202
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7203
 #EXTINF:-1 tvg-id="" tvg-name="IN: ISAIARUVI" tvg-logo="https://docdog.top/logo/countries/india/isaiaruvi.png" group-title="ASIA | INDIA VIP",IN: ISAIARUVI
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7204
-#EXTINF:-1 tvg-id="" tvg-name="IN: ISLAMIC NETWORK" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA VIP",IN: ISLAMIC NETWORK
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7205
-#EXTINF:-1 tvg-id="" tvg-name="IN: JANAM TV" tvg-logo="https://docdog.top/logo/countries/india/janamtv.png" group-title="ASIA | INDIA VIP",IN: JANAM TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7206
 #EXTINF:-1 tvg-id="" tvg-name="IN: JANTA TV" tvg-logo="https://docdog.top/logo/countries/india/jantatv.png" group-title="ASIA | INDIA VIP",IN: JANTA TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7207
 #EXTINF:-1 tvg-id="" tvg-name="IN: JANTANTRA" tvg-logo="https://docdog.top/logo/countries/india/jantantra-tv-in.png" group-title="ASIA | INDIA VIP",IN: JANTANTRA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7208
-#EXTINF:-1 tvg-id="" tvg-name="IN: JAYA MAX" tvg-logo="https://docdog.top/logo/countries/india/jayamax.png" group-title="ASIA | INDIA VIP",IN: JAYA MAX
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7209
-#EXTINF:-1 tvg-id="" tvg-name="IN: JAYA MOVIES" tvg-logo="https://docdog.top/logo/countries/india/jayamovies.png" group-title="ASIA | INDIA VIP",IN: JAYA MOVIES
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7210
 #EXTINF:-1 tvg-id="" tvg-name="IN: JAYA PLUS" tvg-logo="https://docdog.top/logo/countries/india/jayaplus.png" group-title="ASIA | INDIA VIP",IN: JAYA PLUS
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7211
 #EXTINF:-1 tvg-id="" tvg-name="IN: JAYA TV" tvg-logo="https://docdog.top/logo/countries/india/jayatv.png" group-title="ASIA | INDIA VIP",IN: JAYA TV
@@ -18831,8 +18637,6 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7354
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7355
 #EXTINF:-1 tvg-id="" tvg-name="IN: TAKBEER TV UK" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA VIP",IN: TAKBEER TV UK
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7356
-#EXTINF:-1 tvg-id="" tvg-name="IN: TARANG MUSIC" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA VIP",IN: TARANG MUSIC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7061
 #EXTINF:-1 tvg-id="" tvg-name="IN: TEN 1" tvg-logo="https://docdog.top/logo/countries/india/tensports.png" group-title="ASIA | INDIA VIP",IN: TEN 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/7359
 #EXTINF:-1 tvg-id="" tvg-name="IN: TEN 2" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA VIP",IN: TEN 2
@@ -20633,8 +20437,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143763.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurica Road (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Mh48ejOFBQmpkvzXOODpunRHPg.jpg" group-title="AMAZON | Mystery And Thriller",Jurica Road (2020)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jusqua_ce_que_la_mort_nous_separe_Til_Death_Do_Us_Part_2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg" group-title="AMAZON | TOP",Jusqua_ce_que_la_mort_nous_separe_Til_Death_Do_Us_Part_2017
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142610.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Just a Little Chemistry (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsbsRcBBnzKrQvqehRxZVI9B8KZ.jpg" group-title="AMAZON | Romantic Comedies",Just a Little Chemistry (2015)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139754.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Just Another Christmas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pv4e8yKGMJAaZihYPFUjYHsG8Ob.jpg" group-title="NETFLIX | Comedy",Just Another Christmas (2020)
@@ -20645,8 +20447,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139676.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142066.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Just Love and a Thousand Songs (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BnFvDXO7UVXhxTCUvhf7R3UirK.jpg" group-title="DISNEY | Original",Just Love and a Thousand Songs (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Just My Luck (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3Axi7gWVdkD1i7ScqMCN1fhyGc.jpg" group-title="AMAZON | TOP",Just My Luck (2006)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142613.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Just Roll With It: You Decide Live! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2a2UqNJhMrtHXC1X3j4UPtoDSKk.jpg" group-title="DISNEY | Comedy",Just Roll With It: You Decide Live! (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137455.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Just Say Yes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg" group-title="NETFLIX | Comedy",Just Say Yes (2021)
@@ -20767,8 +20567,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140014.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="King Kong (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg" group-title="AMAZON | TOP",King Kong (2005)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142618.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Leopold's Ghost (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWAVNC2CfuAmwsaBGSKwTdciqX.jpg" group-title="AMAZON | Documentaries",King Leopold's Ghost (2006)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Lily of the Valley (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LUaucJOSeCazvb9ZTvADLd2uhS.jpg" group-title="AMAZON | Mystery And Thriller",King Lily of the Valley (2013)
@@ -23355,8 +23153,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138397.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138182.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monster Family 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fD3w59S1e3otqTMQDzxLq24khUf.jpg" group-title="DISNEY | Animation",Monster Family 2 (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monster High: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn3GWm0Erehkpur8PUuYWxGpul5.jpg" group-title="AMAZON | TOP",Monster High: The Movie (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142703.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="AMAZON | Documentaries",Monster Hunter (2020)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138526.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="DISNEY | Fantasy",Monster Hunter (2020)
@@ -23420,9 +23216,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134336.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mother of the Bride (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdTvwykMWvVgdaViBVRh8IFTku5.jpg" group-title="NETFLIX | Romance",Mother of the Bride (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133760.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mother Teresa: No Greater Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxK6C9fp8Cj24UCX3Q3MFzrtpap.jpg" group-title="AMAZON | Documentaries",Mother Teresa: No Greater Love (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mother Teresa: No Greater Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxK6C9fp8Cj24UCX3Q3MFzrtpap.jpg" group-title="AMAZON | Documentaries",Mother Teresa: No Greater Love (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mother Teresa: No Greater Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxK6C9fp8Cj24UCX3Q3MFzrtpap.jpg" group-title="AMAZON | Documentaries",Mother Teresa: No Greater Love (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138304.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mothering Sunday (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3WGSUZNUKEPkLlb3foHbn8rwiK.jpg" group-title="DISNEY | Drama",Mothering Sunday (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137117.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mothers & Stepsons 8 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2puRdDNy9fRQMlqnzXrMg1NHY6.jpg" group-title="XXX 18+",Mothers & Stepsons 8 (2023)
@@ -27580,9 +27376,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133494.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebecca (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGhllBArW7ImDycSMIG5bj6GEPL.jpg" group-title="AMAZON | TOP",Rebecca (2020)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142778.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part One: A Child of Fire (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part One: A Child of Fire (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part One: A Child of Fire (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part Two: The Scargiver (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134397.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part Two: The Scargiver (2024)
@@ -27674,9 +27470,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Remembering (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWZpkYCCbsw6pXntgV3Tfl5gvAu.jpg" group-title="DISNEY | Fantasy",Remembering (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137736.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Remembering Tina Turner (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9An4Arz4WWMKXYXl0ZmoZpXROvM.jpg" group-title="AMAZON | Documentaries",Remembering Tina Turner (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138476.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Remembering Tina Turner (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9An4Arz4WWMKXYXl0ZmoZpXROvM.jpg" group-title="AMAZON | Documentaries",Remembering Tina Turner (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remembering Tina Turner (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9An4Arz4WWMKXYXl0ZmoZpXROvM.jpg" group-title="AMAZON | Documentaries",Remembering Tina Turner (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138476.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Reminiscence (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg" group-title="AMAZON | Horror",Reminiscence (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138990.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Renaissance (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTdbmjAegzFQOCPTAckPcmTpJvp.jpg" group-title="AMAZON | Science Fiction",Renaissance (2006)
@@ -30263,8 +30059,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133160.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138839.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stan Lee (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg" group-title="DISNEY | Marvel",Stan Lee (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="AMAZON | TOP",Star Trek Into Darkness (2013)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142857.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" group-title="DISNEY | Action/Adventure",Star Wars (1977)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136995.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars Biomes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qkDuumUuGi5zl8Cqkc0aXYWr3E.jpg" group-title="DISNEY | Audio Description",Star Wars Biomes (2021)
@@ -30357,8 +30151,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137298.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142860.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Still Laugh-In: The Stars Celebrate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc2aaD4gs4xyPlbikA2UO10MVa0.jpg" group-title="NETFLIX | Comedy",Still Laugh-In: The Stars Celebrate (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/132844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Still/Born (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1BbnMArbnSISel8dK9mpRwWIB.jpg" group-title="AMAZON | TOP",Still/Born (2018)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142859.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sting (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIyC9PHfVbk9p2cUSRHUf3HntJv.jpg" group-title="DISNEY | Horror",Sting (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137825.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stolen (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovUBfip0EgyqHZYhVx4K0ZjFkgn.jpg" group-title="NETFLIX | Drama",Stolen (2024)
@@ -30916,9 +30708,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136776.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Team Foxcatcher (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeHMJUVHo0EgfiFaM7pyxK5k8qu.jpg" group-title="NETFLIX | Documentary",Team Foxcatcher (2016)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136777.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Technoboys (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWyjJnGHMb4ov5TZZ4rMnBL5fmH.jpg" group-title="NETFLIX | Comedy",Technoboys (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/132849.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ted Bundy: American Boogeyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MGcMWgxYPFrBMjIAHcQqmsOIGS.jpg" group-title="AMAZON | Historical",Ted Bundy: American Boogeyman (2021)
@@ -30953,8 +30745,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134560.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133174.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Temptation (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXKOQS4iIx565tdGBR3CkWGjkaA.jpg" group-title="AMAZON | Mystery And Thriller",Temptation (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ten Little Mistresses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kogK99QugddnSIMe3Wy8fWCLL60.jpg" group-title="AMAZON | TOP",Ten Little Mistresses (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142876.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ten Years (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1L1eryJxy1TRdxpyNzhS93Qj2g.jpg" group-title="AMAZON | Mystery And Thriller",Ten Years (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143110.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tenderly_N15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN6CXqnIdGf5WUxevo4E4J0Puz1.jpg" group-title="XXX 18+",Tenderly_N15
@@ -31871,8 +31661,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137015.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134573.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Fire Inside (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMorkoCdZJ1xmKv0VAXcpUax6Ar.jpg" group-title="AMAZON | TOP",The Fire Inside (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The First Great Train Robbery (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LqLUNoCwoPQNmrRuDZa0zC3hT8.jpg" group-title="AMAZON | TOP",The First Great Train Robbery (1978)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142932.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The First Wave (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLUeiYTLwLiwY0wreEeoU4qaU89.jpg" group-title="DISNEY | Geo",The First Wave (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136699.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Flagmakers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMXmzP2MhtMJ2cbOp49xqBDQOSi.jpg" group-title="DISNEY | Geo",The Flagmakers (2022)
@@ -31957,8 +31745,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138647.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139452.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Girl Locked Upstairs: The Tanya Kach Story (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7AkATnfNOzuDgdpH2BVazCT1VM.jpg" group-title="DISNEY | Drama",The Girl Locked Upstairs: The Tanya Kach Story (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Girl on the Train (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg" group-title="AMAZON | TOP",The Girl on the Train (2016)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142928.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Girl Who Believes in Miracles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riaVoQwSTQR7wDlZtveUSUhdoIu.jpg" group-title="AMAZON | Kids And Family",The Girl Who Believes in Miracles (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139415.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Girl Who Escaped: The Kara Robinson Story (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg" group-title="DISNEY | Drama",The Girl Who Escaped: The Kara Robinson Story (2023)
@@ -31997,8 +31783,6 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139529.mkv
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139647.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Great Escape (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBH4H8UMFxl139HaLz6lRuvsel8.jpg" group-title="AMAZON | TOP",The Great Escape (1963)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Great Gatsby (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg" group-title="AMAZON | TOP",The Great Gatsby (2013)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142931.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Great Gilly Hopkins (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myfLGT7afJkYQZNx4wrbl6ljw48.jpg" group-title="AMAZON | Drama",The Great Gilly Hopkins (2015)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138600.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Great Hack (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrGgUzasEUA7v8uChRhUUFzLwE.jpg" group-title="NETFLIX | Documentary",The Great Hack (2019)
@@ -32668,9 +32452,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142966.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Muppet Movie (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg" group-title="DISNEY | Action/Adventure",The Muppet Movie (1979)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Murdaugh Murders (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyf3xGdwiHjIT4YCOix6qQK5HCi.jpg" group-title="DISNEY | Drama",The Murdaugh Murders (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Murdaugh Murders (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyf3xGdwiHjIT4YCOix6qQK5HCi.jpg" group-title="DISNEY | Drama",The Murdaugh Murders (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Murdaugh Murders (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyf3xGdwiHjIT4YCOix6qQK5HCi.jpg" group-title="DISNEY | Drama",The Murdaugh Murders (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137212.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Murderer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="NETFLIX | Thriller",The Murderer (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133918.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Mystery of Marilyn Monroe: The Unheard Tapes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg" group-title="NETFLIX | Documentary",The Mystery of Marilyn Monroe: The Unheard Tapes (2022)
@@ -34182,9 +33966,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141903
 #EXTINF:-1 tvg-id="" tvg-name="TR: DIYAR TV" tvg-logo="" group-title="TR | GENERAL VIP",TR: DIYAR TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140917
 #EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART MAX FHD" tvg-logo="https://docdog.top/logo/countries/turkey/dizi-smart-max-tr.png" group-title="TR | GENERAL VIP",TR: DIZI SMART MAX FHD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140918
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART MAX FHD" tvg-logo="https://docdog.top/logo/countries/turkey/dizi-smart-max-tr.png" group-title="TR | GENERAL VIP",TR: DIZI SMART MAX FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140919
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART MAX FHD" tvg-logo="https://docdog.top/logo/countries/turkey/dizi-smart-max-tr.png" group-title="TR | GENERAL VIP",TR: DIZI SMART MAX FHD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140918
 #EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART PREMIUM FHD" tvg-logo="" group-title="TR | CINEMA VIP",TR: DIZISMART PREMIUM FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141610
 #EXTINF:-1 tvg-id="" tvg-name="TR: DMAX FHD" tvg-logo="https://docdog.top/logo/countries/turkey/dmax.png" group-title="TR | GENERAL VIP",TR: DMAX FHD
@@ -34706,9 +34490,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141166
 #EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +6 MAC SAATI AKTIF" tvg-logo="" group-title="TR | SPORT VIP",TR: S SPORT +6 MAC SAATI AKTIF
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141398
 #EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-2-tr.png" group-title="TR | SPORT VIP",TR: S SPORT 2 HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141399
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-2-tr.png" group-title="TR | SPORT VIP",TR: S SPORT 2 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141400
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-2-tr.png" group-title="TR | SPORT VIP",TR: S SPORT 2 HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141399
 #EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT FHD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-tr.png" group-title="TR | SPORT VIP",TR: S SPORT FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141401
 #EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT HD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-tr.png" group-title="TR | SPORT VIP",TR: S SPORT HD
@@ -34782,9 +34566,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141800
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA FAMILY HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA FAMILY HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141801
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA KOMEDI 2 HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA KOMEDI 2 HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141802
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA KOMEDI 2 HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA KOMEDI 2 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141803
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA KOMEDI 2 HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA KOMEDI 2 HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141802
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA NOSTALJIA HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA NOSTALJIA HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141804
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TURK HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA TURK HD
@@ -35142,9 +34926,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141316
 #EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT NATURE/HISTORY FHD" tvg-logo="" group-title="TR | ENTERTAINMENT VIP",TR: VIASAT NATURE/HISTORY FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141888
 #EXTINF:-1 tvg-id="" tvg-name="TR: VIYANA TV" tvg-logo="" group-title="TR | GENERAL VIP",TR: VIYANA TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141317
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIYANA TV" tvg-logo="" group-title="TR | GENERAL VIP",TR: VIYANA TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141318
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIYANA TV" tvg-logo="" group-title="TR | GENERAL VIP",TR: VIYANA TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141317
 #EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON 58" tvg-logo="https://docdog.top/logo/countries/turkey/vizyon-58-tr.png" group-title="TR | GENERAL VIP",TR: VIZYON 58
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141319
 #EXTINF:-1 tvg-id="" tvg-name="TR: VTV" tvg-logo="" group-title="TR | GENERAL VIP",TR: VTV
@@ -37742,9 +37526,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137337.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Us and Them (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awAgLglirZsEqLff79Z8HaMrTXn.jpg" group-title="NETFLIX | Drama",Us and Them (2018)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134385.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Riotsville, USA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iksb0f8B0hlpqYWRSqBXK4pyZrv.jpg" group-title="DISNEY | Documentary",Riotsville, USA (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137676.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Riotsville, USA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iksb0f8B0hlpqYWRSqBXK4pyZrv.jpg" group-title="DISNEY | Documentary",Riotsville, USA (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Riotsville, USA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iksb0f8B0hlpqYWRSqBXK4pyZrv.jpg" group-title="DISNEY | Documentary",Riotsville, USA (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137676.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extraction, USA (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcfz62gXVBmuQyt2dnxh1HXSJ9z.jpg" group-title="AMAZON | Romance",Extraction, USA (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="USA : NHL MONTREAL CANADIENS" tvg-logo="" group-title="USA VIP",USA : NHL MONTREAL CANADIENS
@@ -38918,9 +38702,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155052
 #EXTINF:-1 tvg-id="" tvg-name="USA: DEGRASSI: THE NEXT GENERATION HD [Sᴛᴠ+]" tvg-logo="" group-title="USA VIP",USA: DEGRASSI: THE NEXT GENERATION HD [Sᴛᴠ+]
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155053
 #EXTINF:-1 tvg-id="" tvg-name="USA: DESTINATION AMERICA" tvg-logo="" group-title="USA VIP",USA: DESTINATION AMERICA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155055
-#EXTINF:-1 tvg-id="" tvg-name="USA: DESTINATION AMERICA" tvg-logo="" group-title="USA VIP",USA: DESTINATION AMERICA
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155054
+#EXTINF:-1 tvg-id="" tvg-name="USA: DESTINATION AMERICA" tvg-logo="" group-title="USA VIP",USA: DESTINATION AMERICA
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155055
 #EXTINF:-1 tvg-id="" tvg-name="USA: DIRTVISION 01" tvg-logo="" group-title="USA VIP",USA: DIRTVISION 01
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155056
 #EXTINF:-1 tvg-id="" tvg-name="USA: DIRTVISION 02" tvg-logo="" group-title="USA VIP",USA: DIRTVISION 02
@@ -42206,9 +41990,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156696
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNA WRESTLING CHANNEL" tvg-logo="" group-title="USA VIP",USA: TNA WRESTLING CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156697
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156698
-#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156699
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156698
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNT (WEST)" tvg-logo="" group-title="USA VIP",USA: TNT (WEST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156700
 #EXTINF:-1 tvg-id="" tvg-name="USA: TOKUSHOUTSU" tvg-logo="" group-title="USA VIP",USA: TOKUSHOUTSU
