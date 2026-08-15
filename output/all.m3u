@@ -2421,10 +2421,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130244
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130245
 #EXTINF:-1 tvg-id="" tvg-name="AR-EG: ALSHARQ" tvg-logo="https://docdog.top/logo/countries/ar/ALSHARQ.png" group-title="ARAB VIP NEW",AR-EG: ALSHARQ
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130246
-#EXTINF:-1 tvg-id="" tvg-name="AR-EG: ATV SAT" tvg-logo="https://docdog.top/logo/countries/ar/ATV_SAT.png" group-title="ARAB VIP NEW",AR-EG: ATV SAT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130248
 #EXTINF:-1 tvg-id="" tvg-name="AR-EG: ATV SAT" tvg-logo="https://docdog.top/logo/countries/ar/ATV_SAT.jpg" group-title="ARAB VIP NEW",AR-EG: ATV SAT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130247
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: ATV SAT" tvg-logo="https://docdog.top/logo/countries/ar/ATV_SAT.png" group-title="ARAB VIP NEW",AR-EG: ATV SAT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130248
 #EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC" tvg-logo="https://docdog.top/logo/countries/ar/CBC.png" group-title="ARAB VIP NEW",AR-EG: CBC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130249
 #EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC DRAMA" tvg-logo="https://docdog.top/logo/countries/ar/CBC_DRAMA.png" group-title="ARAB VIP NEW",AR-EG: CBC DRAMA
@@ -4720,9 +4720,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6572
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦ISLAMIC✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦ISLAMIC✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6882
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6554
-#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6553
+#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6554
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KIDS✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦KIDS✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6886
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KUWAIT✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦KUWAIT✦●✦
@@ -11389,10 +11389,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134816
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135055
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY ONE" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_ONE_HD.png" group-title="DE | CINEMA SERIEN",DE: SKY ONE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134817
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_REPLAY.png" group-title="DE | CINEMA SERIEN",DE: SKY REPLAY
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134818
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_REPLAY_HD.png" group-title="DE | CINEMA SERIEN",DE: SKY REPLAY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134819
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_REPLAY.png" group-title="DE | CINEMA SERIEN",DE: SKY REPLAY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134818
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1" tvg-logo="https://docdog.top/logo/countries/germany/Sky_Select.png" group-title="DE | CINEMA SERIEN",DE: Sky Select 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/148911
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2" tvg-logo="https://docdog.top/logo/countries/germany/Sky_Select.png" group-title="DE | CINEMA SERIEN",DE: Sky Select 2
@@ -15320,9 +15320,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142516.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fortitude: Forging the Trillion Dollar Space Economy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDBENlcZwjhKfcbel7ue7IeEI5O.jpg" group-title="AMAZON | Documentaries",Fortitude: Forging the Trillion Dollar Space Economy (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138164.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fortress (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR6OQUvOnQ0OrRLo7hhonaQhuaE.jpg" group-title="AMAZON | Mystery And Thriller",Fortress (2021)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fortress (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR6OQUvOnQ0OrRLo7hhonaQhuaE.jpg" group-title="AMAZON | Mystery And Thriller",Fortress (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fortress (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR6OQUvOnQ0OrRLo7hhonaQhuaE.jpg" group-title="AMAZON | Mystery And Thriller",Fortress (2021)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143228.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fortuna (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgtGlehldB7f6lL4e3oJWjpmtiD.jpg" group-title="AMAZON | Romance",Fortuna (2018)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142025.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fossil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10Yg8vyGMjO7VVwMI6dflVhjTtl.jpg" group-title="AMAZON | Documentaries",Fossil (2023)
@@ -21060,9 +21060,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137590.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kyle Kinane: Shocks & Struts (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95NU7PLDCWdqwMIqjj14kzDRfHQ.jpg" group-title="DISNEY | Comedy",Kyle Kinane: Shocks & Struts (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137538.mkv
 #EXTINF:-1 tvg-id="" tvg-name="L'Affaire Ben Barka (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fXlrdoWMVkl2RpMhvdaBrexkNh.jpg" group-title="AMAZON | Historical",L'Affaire Ben Barka (2008)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138800.mkv
-#EXTINF:-1 tvg-id="" tvg-name="L'Affaire Ben Barka (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fXlrdoWMVkl2RpMhvdaBrexkNh.jpg" group-title="AMAZON | Historical",L'Affaire Ben Barka (2008)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="L'Affaire Ben Barka (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fXlrdoWMVkl2RpMhvdaBrexkNh.jpg" group-title="AMAZON | Historical",L'Affaire Ben Barka (2008)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138800.mkv
 #EXTINF:-1 tvg-id="" tvg-name="L'amour interdit (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe1jLvpg5Fo1KoTO4KaQng7deF8.jpg" group-title="AMAZON | Recently Added",L'amour interdit (2002)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143610.mkv
 #EXTINF:-1 tvg-id="" tvg-name="L'ange gardien (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aPBDiJmYjkIFVXf9viJEMfxs7q.jpg" group-title="AMAZON | Romance",L'ange gardien (2014)
@@ -27584,9 +27584,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part One: A Child of Fire (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134396.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part Two: The Scargiver (2024)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134397.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part Two: The Scargiver (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part Two: The Scargiver (2024)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134397.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Ridge (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg" group-title="NETFLIX | Thriller",Rebel Ridge (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133898.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebirth (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBI7uS5DDfWBPfMmlxUvgn0PePa.jpg" group-title="NETFLIX | Anime",Rebirth (2016)
@@ -38696,9 +38696,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154937
 #EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="USA VIP",USA: CMT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154938
 #EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="USA VIP",USA: CMT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154940
-#EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="USA VIP",USA: CMT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154939
+#EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="USA VIP",USA: CMT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154940
 #EXTINF:-1 tvg-id="" tvg-name="USA: CMT (EAST)" tvg-logo="" group-title="USA VIP",USA: CMT (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154941
 #EXTINF:-1 tvg-id="" tvg-name="USA: CMT (WEST)" tvg-logo="" group-title="USA VIP",USA: CMT (WEST)
@@ -39006,9 +39006,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155096
 #EXTINF:-1 tvg-id="" tvg-name="USA: DW NEWS US" tvg-logo="" group-title="USA VIP",USA: DW NEWS US
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155097
 #EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA VIP",USA: E!
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155099
-#EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA VIP",USA: E!
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155098
+#EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA VIP",USA: E!
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155099
 #EXTINF:-1 tvg-id="" tvg-name="USA: E! ENTERTAINMENT TELEVISION (EAST)" tvg-logo="" group-title="USA VIP",USA: E! ENTERTAINMENT TELEVISION (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155100
 #EXTINF:-1 tvg-id="" tvg-name="USA: E! ENTERTAINMENT TELEVISION (WEST)" tvg-logo="" group-title="USA VIP",USA: E! ENTERTAINMENT TELEVISION (WEST)
@@ -39452,9 +39452,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155319
 #EXTINF:-1 tvg-id="" tvg-name="USA: FMC" tvg-logo="" group-title="USA VIP",USA: FMC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155320
 #EXTINF:-1 tvg-id="" tvg-name="USA: FOOD NETWORK" tvg-logo="" group-title="USA VIP",USA: FOOD NETWORK
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155322
-#EXTINF:-1 tvg-id="" tvg-name="USA: FOOD NETWORK" tvg-logo="" group-title="USA VIP",USA: FOOD NETWORK
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155321
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOOD NETWORK" tvg-logo="" group-title="USA VIP",USA: FOOD NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155322
 #EXTINF:-1 tvg-id="" tvg-name="USA: FOOD NETWORK (EAST)" tvg-logo="" group-title="USA VIP",USA: FOOD NETWORK (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155323
 #EXTINF:-1 tvg-id="" tvg-name="USA: FOOD NETWORK (WEST)" tvg-logo="" group-title="USA VIP",USA: FOOD NETWORK (WEST)
