@@ -2421,10 +2421,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130244
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130245
 #EXTINF:-1 tvg-id="" tvg-name="AR-EG: ALSHARQ" tvg-logo="https://docdog.top/logo/countries/ar/ALSHARQ.png" group-title="ARAB VIP NEW",AR-EG: ALSHARQ
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130246
-#EXTINF:-1 tvg-id="" tvg-name="AR-EG: ATV SAT" tvg-logo="https://docdog.top/logo/countries/ar/ATV_SAT.png" group-title="ARAB VIP NEW",AR-EG: ATV SAT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130248
 #EXTINF:-1 tvg-id="" tvg-name="AR-EG: ATV SAT" tvg-logo="https://docdog.top/logo/countries/ar/ATV_SAT.jpg" group-title="ARAB VIP NEW",AR-EG: ATV SAT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130247
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: ATV SAT" tvg-logo="https://docdog.top/logo/countries/ar/ATV_SAT.png" group-title="ARAB VIP NEW",AR-EG: ATV SAT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130248
 #EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC" tvg-logo="https://docdog.top/logo/countries/ar/CBC.png" group-title="ARAB VIP NEW",AR-EG: CBC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130249
 #EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC DRAMA" tvg-logo="https://docdog.top/logo/countries/ar/CBC_DRAMA.png" group-title="ARAB VIP NEW",AR-EG: CBC DRAMA
@@ -34692,9 +34692,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141800
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA FAMILY HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA FAMILY HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141801
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA KOMEDI 2 HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA KOMEDI 2 HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141803
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA KOMEDI 2 HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA KOMEDI 2 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141802
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA KOMEDI 2 HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA KOMEDI 2 HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141803
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA NOSTALJIA HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA NOSTALJIA HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141804
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TURK HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA TURK HD
@@ -34712,9 +34712,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141810
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 2 FHD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA TV AILE 2 FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141811
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA TV AILE HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141813
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA TV AILE HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141812
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA TV AILE HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141813
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AKSIYON 2 HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA TV AKSIYON 2 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141814
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AKSIYON HD" tvg-logo="" group-title="TR | CINEMA VIP",TR: SINEMA TV AKSIYON HD
@@ -42116,9 +42116,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156696
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNA WRESTLING CHANNEL" tvg-logo="" group-title="USA VIP",USA: TNA WRESTLING CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156697
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156699
-#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156698
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156699
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNT (WEST)" tvg-logo="" group-title="USA VIP",USA: TNT (WEST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156700
 #EXTINF:-1 tvg-id="" tvg-name="USA: TOKUSHOUTSU" tvg-logo="" group-title="USA VIP",USA: TOKUSHOUTSU
