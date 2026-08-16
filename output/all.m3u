@@ -4720,9 +4720,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6572
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦ISLAMIC✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦ISLAMIC✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6882
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6553
-#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6554
+#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6553
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KIDS✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦KIDS✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6886
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KUWAIT✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦KUWAIT✦●✦
@@ -9502,9 +9502,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/141986.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Code 8 Part II (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h89INyaoH16CdlT7q7BtKikIFRy.jpg" group-title="NETFLIX | Sci-Fi",Code 8 Part II (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133815.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Code of Silence (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE1Xh7Q7M6uDrm28ib0MMcuhO4L.jpg" group-title="AMAZON | TOP",Code of Silence (1985)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142436.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Code of Silence (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE1Xh7Q7M6uDrm28ib0MMcuhO4L.jpg" group-title="AMAZON | TOP",Code of Silence (1985)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Code of Silence (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE1Xh7Q7M6uDrm28ib0MMcuhO4L.jpg" group-title="AMAZON | TOP",Code of Silence (1985)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142436.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Codename: Angola (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtFnS26lEgMcvmjEP2LVTNU30kK.jpg" group-title="AMAZON | Documentaries",Codename: Angola (2015)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138106.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsIIv6QKDlqrVyGGkouMah4D4ir.jpg" group-title="NETFLIX | Comedy",Coffee & Kareem (2020)
@@ -15230,9 +15230,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142516.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fortitude: Forging the Trillion Dollar Space Economy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDBENlcZwjhKfcbel7ue7IeEI5O.jpg" group-title="AMAZON | Documentaries",Fortitude: Forging the Trillion Dollar Space Economy (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138164.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fortress (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR6OQUvOnQ0OrRLo7hhonaQhuaE.jpg" group-title="AMAZON | Mystery And Thriller",Fortress (2021)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fortress (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR6OQUvOnQ0OrRLo7hhonaQhuaE.jpg" group-title="AMAZON | Mystery And Thriller",Fortress (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fortress (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR6OQUvOnQ0OrRLo7hhonaQhuaE.jpg" group-title="AMAZON | Mystery And Thriller",Fortress (2021)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143227.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fortuna (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgtGlehldB7f6lL4e3oJWjpmtiD.jpg" group-title="AMAZON | Romance",Fortuna (2018)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142025.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fossil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10Yg8vyGMjO7VVwMI6dflVhjTtl.jpg" group-title="AMAZON | Documentaries",Fossil (2023)
@@ -18886,9 +18886,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143750.mkv
 #EXTINF:-1 tvg-id="" tvg-name="India's Wild Leopards (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mp7pUDPDXjhhuxln1PSDZV6inp.jpg" group-title="DISNEY | Documentary",India's Wild Leopards (2020)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137632.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="DISNEY | Action/Adventure",Indiana Jones and the Dial of Destiny (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="DISNEY | Action/Adventure",Indiana Jones and the Dial of Destiny (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="DISNEY | Action/Adventure",Indiana Jones and the Dial of Destiny (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137070.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Kingdom of the Crystal Skull (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56As6XEM1flWvprX4LgkPl8ii4K.jpg" group-title="AMAZON | Action And Adventure",Indiana Jones and the Kingdom of the Crystal Skull (2008)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137957.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Kingdom of the Crystal Skull (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzxvMRJtXfqdiwBYzDJXDSIOYWi.jpg" group-title="DISNEY | Action/Adventure",Indiana Jones and the Kingdom of the Crystal Skull (2008)
@@ -21010,9 +21010,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142085.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Nuit des Chasseurs (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9eFc0kf0t8vV76WfnFm3EksHLt.jpg" group-title="AMAZON | Mystery And Thriller",La Nuit des Chasseurs (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143313.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Petite taupe aime la nature (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TOsNcLdK3iDxaXhlQFW1gb5tWY.jpg" group-title="AMAZON | Kids And Family",La Petite taupe aime la nature (2020)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Petite taupe aime la nature (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TOsNcLdK3iDxaXhlQFW1gb5tWY.jpg" group-title="AMAZON | Kids And Family",La Petite taupe aime la nature (2020)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Petite taupe aime la nature (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TOsNcLdK3iDxaXhlQFW1gb5tWY.jpg" group-title="AMAZON | Kids And Family",La Petite taupe aime la nature (2020)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139264.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Pirate (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HfySiCkdtaZEZdIlqw3WJNG0Q0.jpg" group-title="AMAZON | Romance",La Pirate (1984)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142086.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La première marche (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dETIq3gYxfCnuQQ2dDOtbD1aPvU.jpg" group-title="AMAZON | Documentaries",La première marche (2020)
@@ -30826,9 +30826,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136776.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Team Foxcatcher (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeHMJUVHo0EgfiFaM7pyxK5k8qu.jpg" group-title="NETFLIX | Documentary",Team Foxcatcher (2016)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136777.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Technoboys (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWyjJnGHMb4ov5TZZ4rMnBL5fmH.jpg" group-title="NETFLIX | Comedy",Technoboys (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/132849.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ted Bundy: American Boogeyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MGcMWgxYPFrBMjIAHcQqmsOIGS.jpg" group-title="AMAZON | Historical",Ted Bundy: American Boogeyman (2021)
@@ -33952,11 +33952,11 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141366
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports4.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 4 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141367
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports5.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 5 HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141368
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports5.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 5 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141369
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="" group-title="TR | SPORT VIP",TR: BEIN SPORTS 5 HD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141358
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports5.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 5 HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141368
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER FHD" tvg-logo="https://docdog.top/logo/countries/turkey/bein-sports-haber-tr.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS HABER FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141370
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="https://docdog.top/logo/countries/turkey/bein-sports-haber-tr.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS HABER HD
@@ -42102,9 +42102,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156689
 #EXTINF:-1 tvg-id="" tvg-name="USA: TINY HOUSE NATION" tvg-logo="" group-title="USA VIP",USA: TINY HOUSE NATION
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156690
 #EXTINF:-1 tvg-id="" tvg-name="USA: TLC" tvg-logo="" group-title="USA VIP",USA: TLC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156692
-#EXTINF:-1 tvg-id="" tvg-name="USA: TLC" tvg-logo="" group-title="USA VIP",USA: TLC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156691
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC" tvg-logo="" group-title="USA VIP",USA: TLC
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156692
 #EXTINF:-1 tvg-id="" tvg-name="USA: TLC (EAST)" tvg-logo="" group-title="USA VIP",USA: TLC (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156693
 #EXTINF:-1 tvg-id="" tvg-name="USA: TLC (WEST)" tvg-logo="" group-title="USA VIP",USA: TLC (WEST)
