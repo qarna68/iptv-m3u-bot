@@ -5681,10 +5681,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130987
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130988
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: FAMILY 2" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_FAMILY_2.jpg" group-title="ARAB VIP NEW",AR|SHAHID: FAMILY 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130989
-#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: HORROR" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_HORROR.png" group-title="ARAB VIP NEW",AR|SHAHID: HORROR
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130990
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: Horror" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_Horror.jpg" group-title="ARAB VIP NEW",AR|SHAHID: Horror
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130991
+#EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: HORROR" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_HORROR.png" group-title="ARAB VIP NEW",AR|SHAHID: HORROR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130990
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: HORROR 1" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_HORROR_1.png" group-title="ARAB VIP NEW",AR|SHAHID: HORROR 1
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130992
 #EXTINF:-1 tvg-id="" tvg-name="AR|SHAHID: HORROR 2" tvg-logo="https://docdog.top/logo/countries/ar/SHAHID_HORROR_2.png" group-title="ARAB VIP NEW",AR|SHAHID: HORROR 2
@@ -11215,10 +11215,10 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134979
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147096
 #EXTINF:-1 tvg-id="" tvg-name="DE: RIC TODAY" tvg-logo="https://docdog.top/logo/countries/germany/new/RIC_TODAY_HD.png" group-title="DE | KINDER",DE: RIC TODAY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147097
-#EXTINF:-1 tvg-id="" tvg-name="DE: ROMANCE TV" tvg-logo="https://docdog.top/logo/countries/germany/new/ROMANCE_TV.png" group-title="DE | CINEMA SERIEN",DE: ROMANCE TV
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134805
 #EXTINF:-1 tvg-id="" tvg-name="DE: ROMANCE TV" tvg-logo="https://docdog.top/logo/countries/germany/new/ROMANCE_TV_HD.png" group-title="DE | CINEMA SERIEN",DE: ROMANCE TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134806
+#EXTINF:-1 tvg-id="" tvg-name="DE: ROMANCE TV" tvg-logo="https://docdog.top/logo/countries/germany/new/ROMANCE_TV.png" group-title="DE | CINEMA SERIEN",DE: ROMANCE TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134805
 #EXTINF:-1 tvg-id="" tvg-name="DE: RT DE" tvg-logo="https://docdog.top/logo/countries/germany/new/RT_DE.png" group-title="DE | NACHRICHTEN",DE: RT DE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135235
 #EXTINF:-1 tvg-id="" tvg-name="DE: RTL" tvg-logo="https://docdog.top/logo/countries/germany/new/RTL_HD.png" group-title="DE | DEUTSCHLAND",DE: RTL
@@ -20674,9 +20674,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142068.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Kong (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg" group-title="AMAZON | TOP",King Kong (2005)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142618.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Leopold's Ghost (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWAVNC2CfuAmwsaBGSKwTdciqX.jpg" group-title="AMAZON | Documentaries",King Leopold's Ghost (2006)
@@ -27490,9 +27490,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133494.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebecca (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGhllBArW7ImDycSMIG5bj6GEPL.jpg" group-title="AMAZON | TOP",Rebecca (2020)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142778.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part One: A Child of Fire (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part One: A Child of Fire (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part One: A Child of Fire (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part Two: The Scargiver (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134397.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="NETFLIX | Sci-Fi",Rebel Moon - Part Two: The Scargiver (2024)
@@ -29534,9 +29534,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154468
 #EXTINF:-1 tvg-id="" tvg-name="Speed Is Expensive: The Philip Vincent Story (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caj6PuX0W6ns2CglhqpA7dv7pS5.jpg" group-title="AMAZON | 2025",Speed Is Expensive: The Philip Vincent Story (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/134552.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spellbound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg" group-title="NETFLIX | Kids",Spellbound (2024)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spellbound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg" group-title="NETFLIX | Kids",Spellbound (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spellbound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg" group-title="NETFLIX | Kids",Spellbound (2024)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133671.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spelling the Dream (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piAOvsXc1gg7HrS0FYjPik7dVkl.jpg" group-title="NETFLIX | Documentary",Spelling the Dream (2020)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133159.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg" group-title="NETFLIX | Thriller",Spenser Confidential (2020)
@@ -38916,9 +38916,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155096
 #EXTINF:-1 tvg-id="" tvg-name="USA: DW NEWS US" tvg-logo="" group-title="USA VIP",USA: DW NEWS US
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155097
 #EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA VIP",USA: E!
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155098
-#EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA VIP",USA: E!
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155099
+#EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA VIP",USA: E!
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155098
 #EXTINF:-1 tvg-id="" tvg-name="USA: E! ENTERTAINMENT TELEVISION (EAST)" tvg-logo="" group-title="USA VIP",USA: E! ENTERTAINMENT TELEVISION (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155100
 #EXTINF:-1 tvg-id="" tvg-name="USA: E! ENTERTAINMENT TELEVISION (WEST)" tvg-logo="" group-title="USA VIP",USA: E! ENTERTAINMENT TELEVISION (WEST)
@@ -39862,9 +39862,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155569
 #EXTINF:-1 tvg-id="" tvg-name="USA: HBO FHD" tvg-logo="" group-title="USA VIP",USA: HBO FHD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155570
 #EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO" tvg-logo="" group-title="USA VIP",USA: HBO LATINO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155571
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO" tvg-logo="" group-title="USA VIP",USA: HBO LATINO
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155572
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO" tvg-logo="" group-title="USA VIP",USA: HBO LATINO
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155571
 #EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO (EAST)" tvg-logo="" group-title="USA VIP",USA: HBO LATINO (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155573
 #EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO (WEST)" tvg-logo="" group-title="USA VIP",USA: HBO LATINO (WEST)
@@ -41514,11 +41514,11 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156395
 #EXTINF:-1 tvg-id="" tvg-name="USA: OVATION" tvg-logo="" group-title="USA VIP",USA: OVATION
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156396
 #EXTINF:-1 tvg-id="" tvg-name="USA: OWN" tvg-logo="" group-title="USA VIP",USA: OWN
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156399
+#EXTINF:-1 tvg-id="" tvg-name="USA: OWN" tvg-logo="" group-title="USA VIP",USA: OWN
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156397
 #EXTINF:-1 tvg-id="" tvg-name="USA: OWN" tvg-logo="" group-title="USA VIP",USA: OWN
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156398
-#EXTINF:-1 tvg-id="" tvg-name="USA: OWN" tvg-logo="" group-title="USA VIP",USA: OWN
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156399
 #EXTINF:-1 tvg-id="" tvg-name="USA: OWN (EAST)" tvg-logo="" group-title="USA VIP",USA: OWN (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156400
 #EXTINF:-1 tvg-id="" tvg-name="USA: OWN (WEST)" tvg-logo="" group-title="USA VIP",USA: OWN (WEST)
@@ -42116,9 +42116,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156696
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNA WRESTLING CHANNEL" tvg-logo="" group-title="USA VIP",USA: TNA WRESTLING CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156697
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156698
-#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156699
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156698
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNT (WEST)" tvg-logo="" group-title="USA VIP",USA: TNT (WEST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156700
 #EXTINF:-1 tvg-id="" tvg-name="USA: TOKUSHOUTSU" tvg-logo="" group-title="USA VIP",USA: TOKUSHOUTSU
