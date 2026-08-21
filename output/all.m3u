@@ -4720,9 +4720,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6572
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦ISLAMIC✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦ISLAMIC✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6882
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6554
-#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6553
+#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦JORDAN✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦JORDAN✦●✦
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6554
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KIDS✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦KIDS✦●✦
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/6886
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KUWAIT✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦KUWAIT✦●✦
@@ -6190,9 +6190,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Action/Adventure",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137062.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137661.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137661.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="DISNEY | Documentary",Avatar: The Way of Water (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137678.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avengement (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXPxSAYf3FdQktnOtQnvhUPMhFp.jpg" group-title="AMAZON | TOP",Avengement (2019)
@@ -8892,9 +8892,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136598.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlie and the Chocolate Factory (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg" group-title="AMAZON | Movies In English",Charlie and the Chocolate Factory (2005)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlie's Angels (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="AMAZON | TOP",Charlie's Angels (2019)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142419.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Charlie's Angels (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="AMAZON | TOP",Charlie's Angels (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Charlie's Angels (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="AMAZON | TOP",Charlie's Angels (2019)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142419.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlotte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goUoo1DiQen9TT6sBT6o4LW5cQs.jpg" group-title="AMAZON | Recently Added",Charlotte (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/143605.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charming (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zul7SrFKT0NLpDZByVeVh6wVZ5p.jpg" group-title="AMAZON | Kids And Family",Charming (2021)
@@ -20672,9 +20672,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142068.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King Khat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QQ8Yr1jyHJzlQvnTOC45WnRk1r.jpg" group-title="XXX 18+",King Khat (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/140016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Kong (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg" group-title="AMAZON | TOP",King Kong (2005)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142618.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Leopold's Ghost (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWAVNC2CfuAmwsaBGSKwTdciqX.jpg" group-title="AMAZON | Documentaries",King Leopold's Ghost (2006)
@@ -22268,9 +22268,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marriage Story (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg" group-title="NETFLIX | Drama",Marriage Story (2019)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133448.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yalla Aa'belkon: Single, Married, Divorced (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYR1Bi63KXFTdZf4kHR1yPlHTWK.jpg" group-title="AMAZON | TOP",Yalla Aa'belkon: Single, Married, Divorced (2014)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yalla Aa'belkon: Single, Married, Divorced (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYR1Bi63KXFTdZf4kHR1yPlHTWK.jpg" group-title="AMAZON | TOP",Yalla Aa'belkon: Single, Married, Divorced (2014)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yalla Aa'belkon: Single, Married, Divorced (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYR1Bi63KXFTdZf4kHR1yPlHTWK.jpg" group-title="AMAZON | TOP",Yalla Aa'belkon: Single, Married, Divorced (2014)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142835.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marry Me at Christmas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAzbrvZLiurV0i7rJdVCXlOmVOa.jpg" group-title="AMAZON | Romance",Marry Me at Christmas (2017)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142131.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mars Hill Bait and Ammo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gC9GsHT4Fh4GzUtQ0klUiDxs5d.jpg" group-title="AMAZON | 2025",Mars Hill Bait and Ammo (2023)
@@ -25012,9 +25012,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133101.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Opus (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg" group-title="AMAZON | Documentaries",Opus (2025)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138262.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extra Episode, or Not: Behind the Scenes of All the Same (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTDcLs6OTRGFxuQ8OSEwPyke74e.jpg" group-title="DISNEY | Documentary",Extra Episode, or Not: Behind the Scenes of All the Same (2022)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137665.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Extra Episode, or Not: Behind the Scenes of All the Same (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTDcLs6OTRGFxuQ8OSEwPyke74e.jpg" group-title="DISNEY | Documentary",Extra Episode, or Not: Behind the Scenes of All the Same (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extra Episode, or Not: Behind the Scenes of All the Same (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTDcLs6OTRGFxuQ8OSEwPyke74e.jpg" group-title="DISNEY | Documentary",Extra Episode, or Not: Behind the Scenes of All the Same (2022)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137665.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Twelfth Night, or What You Will (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otqH8vCWVKEI8PAr7SeGxiRa3OC.jpg" group-title="AMAZON | Romantic Comedies",Twelfth Night, or What You Will (2003)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/139867.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Orbital Era" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSbh4lDeJFEZJexVU2ORnuJDgC6.jpg" group-title="AMAZON | Science Fiction",Orbital Era
@@ -27582,9 +27582,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Remembering (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWZpkYCCbsw6pXntgV3Tfl5gvAu.jpg" group-title="DISNEY | Fantasy",Remembering (2022)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137736.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Remembering Tina Turner (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9An4Arz4WWMKXYXl0ZmoZpXROvM.jpg" group-title="AMAZON | Documentaries",Remembering Tina Turner (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138477.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Remembering Tina Turner (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9An4Arz4WWMKXYXl0ZmoZpXROvM.jpg" group-title="AMAZON | Documentaries",Remembering Tina Turner (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remembering Tina Turner (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9An4Arz4WWMKXYXl0ZmoZpXROvM.jpg" group-title="AMAZON | Documentaries",Remembering Tina Turner (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138477.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Reminiscence (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg" group-title="AMAZON | Horror",Reminiscence (2021)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/138990.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Renaissance (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTdbmjAegzFQOCPTAckPcmTpJvp.jpg" group-title="AMAZON | Science Fiction",Renaissance (2006)
@@ -30824,9 +30824,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136776.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Team Foxcatcher (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeHMJUVHo0EgfiFaM7pyxK5k8qu.jpg" group-title="NETFLIX | Documentary",Team Foxcatcher (2016)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Team Thor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg" group-title="DISNEY | Marvel",Team Thor (2016)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/136778.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Technoboys (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWyjJnGHMb4ov5TZZ4rMnBL5fmH.jpg" group-title="NETFLIX | Comedy",Technoboys (2024)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/132849.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ted Bundy: American Boogeyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MGcMWgxYPFrBMjIAHcQqmsOIGS.jpg" group-title="AMAZON | Historical",Ted Bundy: American Boogeyman (2021)
@@ -32576,9 +32576,9 @@ http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/142966.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Muppet Movie (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg" group-title="DISNEY | Action/Adventure",The Muppet Movie (1979)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Murdaugh Murders (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyf3xGdwiHjIT4YCOix6qQK5HCi.jpg" group-title="DISNEY | Drama",The Murdaugh Murders (2023)
-http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Murdaugh Murders (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyf3xGdwiHjIT4YCOix6qQK5HCi.jpg" group-title="DISNEY | Drama",The Murdaugh Murders (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Murdaugh Murders (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyf3xGdwiHjIT4YCOix6qQK5HCi.jpg" group-title="DISNEY | Drama",The Murdaugh Murders (2023)
+http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/137212.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Murderer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="NETFLIX | Thriller",The Murderer (2023)
 http://31.43.191.125:8080/movie/vip6001770656088/c394e34a0504/133918.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Mystery of Marilyn Monroe: The Unheard Tapes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg" group-title="NETFLIX | Documentary",The Mystery of Marilyn Monroe: The Unheard Tapes (2022)
@@ -40338,9 +40338,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155808
 #EXTINF:-1 tvg-id="" tvg-name="USA: MTV (WEST)" tvg-logo="" group-title="USA VIP",USA: MTV (WEST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155809
 #EXTINF:-1 tvg-id="" tvg-name="USA: MTV 2" tvg-logo="" group-title="USA VIP",USA: MTV 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155810
-#EXTINF:-1 tvg-id="" tvg-name="USA: MTV 2" tvg-logo="" group-title="USA VIP",USA: MTV 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155811
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV 2" tvg-logo="" group-title="USA VIP",USA: MTV 2
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155810
 #EXTINF:-1 tvg-id="" tvg-name="USA: MTV 2 (EAST)" tvg-logo="" group-title="USA VIP",USA: MTV 2 (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155812
 #EXTINF:-1 tvg-id="" tvg-name="USA: MTV 2 (WEST)" tvg-logo="" group-title="USA VIP",USA: MTV 2 (WEST)
@@ -42114,9 +42114,9 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156696
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNA WRESTLING CHANNEL" tvg-logo="" group-title="USA VIP",USA: TNA WRESTLING CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156697
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156699
-#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156698
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA VIP",USA: TNT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156699
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNT (WEST)" tvg-logo="" group-title="USA VIP",USA: TNT (WEST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156700
 #EXTINF:-1 tvg-id="" tvg-name="USA: TOKUSHOUTSU" tvg-logo="" group-title="USA VIP",USA: TOKUSHOUTSU
@@ -42134,11 +42134,11 @@ http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156706
 #EXTINF:-1 tvg-id="" tvg-name="USA: TOTALLY TURTLES" tvg-logo="" group-title="USA VIP",USA: TOTALLY TURTLES
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156707
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156710
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156708
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156709
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156708
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156710
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL (EAST)" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL (EAST)
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156711
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL (WEST)" tvg-logo="" group-title="USA VIP",USA: TRAVEL CHANNEL (WEST)
